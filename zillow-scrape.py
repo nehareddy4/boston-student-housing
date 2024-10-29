@@ -22,7 +22,7 @@ def scrape_html(url):
         )
         driver.get(url)
         scroll = WebDriverWait(driver, 15).until(EC.presence_of_element_located(
-    (By.CSS_SELECTOR, '[class="SearchPageListContainer__StyledSearchPageListContainer-srp-8-105-0__sc-4vf8s4-0 kIvVmb search-page-list-container short-list-cards"]')))
+    (By.CSS_SELECTOR, '[class="SearchPageListContainer__StyledSearchPageListContainer-srp-8-105-2__sc-4vf8s4-0 iudnrF search-page-list-container short-list-cards"]')))
         scroll_steps = 50 
         scroll_pause_time = 0.1
         for step in range(scroll_steps):
@@ -68,4 +68,4 @@ for page in range(11,21):
     driver.quit()
 columns = ['address', 'bds', 'cost']
 df = pd.DataFrame(property_data_master, columns=columns)
-df.to_csv('property_data_2.csv')
+df.to_csv('property_data.csv')
