@@ -1,0 +1,1168 @@
+address,bds,cost,distance_neu,distance_harvard,distance_mit,distance_bu,lat,lng
+"Douglass Apartments, 650 Columbus Ave #434, Boston, MA 02118",1,3300,0.5 km,6.6 km,3.2 km,2.1 km,42.3388272,-71.08356669999999
+"Gardner Street Apartments | 75-84 Gardner St, Allston, MA",1,2450,6.2 km,2.5 km,5.4 km,1.1 km,42.3532781,-71.12712979999999
+"Gardner Street Apartments | 75-84 Gardner St, Allston, MA",2,2450,6.2 km,2.5 km,5.4 km,1.1 km,42.3532781,-71.12712979999999
+"Idyl Fenway | 60 Kilmarnock St, Boston, MA",Studio,3710,1.0 km,6.2 km,3.1 km,1.3 km,42.3429115,-71.0990346
+"Idyl Fenway | 60 Kilmarnock St, Boston, MA",1,3990,1.0 km,6.2 km,3.1 km,1.3 km,42.3429115,-71.0990346
+"Idyl Fenway | 60 Kilmarnock St, Boston, MA",2,5710,1.0 km,6.2 km,3.1 km,1.3 km,42.3429115,-71.0990346
+"Idyl Fenway | 60 Kilmarnock St, Boston, MA",3,9190,1.0 km,6.2 km,3.1 km,1.3 km,42.3429115,-71.0990346
+"Elements | 60 Brainerd Rd, Allston, MA",1,3287,4.3 km,2.6 km,4.9 km,1.6 km,42.3474674,-71.1332006
+"Winter Street Apartments, 8, 8 Winter St #1103, Boston, MA 02108",1,3200,4.5 km,8.7 km,4.2 km,3.5 km,42.3555339,-71.0608092
+"The Brynx | 201 S Huntington Ave, Jamaica Plain, MA",Studio,2690,3.2 km,5.2 km,5.6 km,3.1 km,42.3257836,-71.1123365
+"The Brynx | 201 S Huntington Ave, Jamaica Plain, MA",1,3450,3.2 km,5.2 km,5.6 km,3.1 km,42.3257836,-71.1123365
+"The Brynx | 201 S Huntington Ave, Jamaica Plain, MA",2,4375,3.2 km,5.2 km,5.6 km,3.1 km,42.3257836,-71.1123365
+"Shawmut Place, 475 Shawmut Ave APT 2, Boston, MA 02118",2,3500,1.2 km,7.7 km,3.6 km,2.7 km,42.3389167,-71.0759277
+"1330 Boylston | 1330 Boylston St, Boston, MA",1,4371,1.1 km,5.9 km,2.8 km,1.3 km,42.3441492,-71.0983916
+"1330 Boylston | 1330 Boylston St, Boston, MA",2,5051,1.1 km,5.9 km,2.8 km,1.3 km,42.3441492,-71.0983916
+"1330 Boylston | 1330 Boylston St, Boston, MA",3,10489,1.1 km,5.9 km,2.8 km,1.3 km,42.3441492,-71.0983916
+"Rozzie | 289 Walk Hill St, Roslindale, MA",1,3158,6.4 km,10.4 km,10.7 km,8.3 km,42.2878211,-71.1075764
+"Rozzie | 289 Walk Hill St, Roslindale, MA",2,3908,6.4 km,10.4 km,10.7 km,8.3 km,42.2878211,-71.1075764
+"95 Saint | 95 Saint Alphonsus St, Roxbury Crossing, MA",1,4635,1.0 km,7.3 km,4.2 km,2.3 km,42.3337172,-71.1012211
+"95 Saint | 95 Saint Alphonsus St, Roxbury Crossing, MA",2,4938,1.0 km,7.3 km,4.2 km,2.3 km,42.3337172,-71.1012211
+"Eco | 75 Brainerd Rd, Allston, MA",Studio,3049,4.3 km,2.7 km,4.9 km,1.6 km,42.3474529,-71.13403559999999
+"Eco | 75 Brainerd Rd, Allston, MA",2,5114,4.3 km,2.7 km,4.9 km,1.6 km,42.3474529,-71.13403559999999
+"Metro Rentals, LLC | 1 Nassau St, Boston, MA",1,2655,3.7 km,7.6 km,4.8 km,4.1 km,42.3486049,-71.0630924
+"Metro Rentals, LLC | 1 Nassau St, Boston, MA",2,3745,3.7 km,7.6 km,4.8 km,4.1 km,42.3486049,-71.0630924
+"Dot Block | 1211 Dorchester Ave, Dorchester, MA",Studio,2505,4.3 km,13.5 km,11.5 km,12.3 km,42.3095745,-71.0585936
+"Dot Block | 1211 Dorchester Ave, Dorchester, MA",2,3660,4.3 km,13.5 km,11.5 km,12.3 km,42.3095745,-71.0585936
+"Dot Block | 1211 Dorchester Ave, Dorchester, MA",3,4665,4.3 km,13.5 km,11.5 km,12.3 km,42.3095745,-71.0585936
+"Imprint, 780 William T Morrissey Blvd, Dorchester, MA 02122",1,3158,7.3 km,14.8 km,12.7 km,13.6 km,42.295572,-71.047169
+"E3 Apartments | 65 Brainerd Rd, Allston, MA",Studio,2848,4.3 km,2.6 km,4.9 km,1.6 km,42.347766,-71.13362289999999
+"E3 Apartments | 65 Brainerd Rd, Allston, MA",1,2667,4.3 km,2.6 km,4.9 km,1.6 km,42.347766,-71.13362289999999
+"E3 Apartments | 65 Brainerd Rd, Allston, MA",2,3936,4.3 km,2.6 km,4.9 km,1.6 km,42.347766,-71.13362289999999
+"Hub25 | 25 Morrissey Blvd, Dorchester, MA",Studio,2392,4.8 km,12.3 km,10.2 km,11.0 km,42.31980840000001,-71.051234
+"Hub25 | 25 Morrissey Blvd, Dorchester, MA",1,2802,4.8 km,12.3 km,10.2 km,11.0 km,42.31980840000001,-71.051234
+"Chapman House | 61 Eutaw St E, Boston, MA",1,2500,8.1 km,11.9 km,6.8 km,7.6 km,42.3792213,-71.03702439999999
+"Parkway Apartments | 1555 Vfw Pkwy, West Roxbury, MA",1,2529,15.0 km,29.9 km,16.8 km,14.4 km,42.2676322,-71.1714442
+"Parkway Apartments | 1555 Vfw Pkwy, West Roxbury, MA",2,3391,15.0 km,29.9 km,16.8 km,14.4 km,42.2676322,-71.1714442
+"The Longwood | 1575 Tremont St, Roxbury Crossing, MA",2,3964,1.3 km,7.6 km,4.5 km,2.6 km,42.3335003,-71.10181709999999
+"Camelot Court | 10 Camelot Ct, Brighton, MA",1,3170,6.3 km,2.5 km,5.5 km,2.2 km,42.3501539,-71.14127429999999
+"Camelot Court | 10 Camelot Ct, Brighton, MA",2,3256,6.3 km,2.5 km,5.5 km,2.2 km,42.3501539,-71.14127429999999
+"Camelot Court | 10 Camelot Ct, Brighton, MA",3,4058,6.3 km,2.5 km,5.5 km,2.2 km,42.3501539,-71.14127429999999
+"HEW at 1515 Comm Ave | 1525 Commonwealth Ave, Brighton, MA",Studio,2960,7.4 km,3.1 km,6.7 km,3.4 km,42.3464355,-71.1419296
+"HEW at 1515 Comm Ave | 1525 Commonwealth Ave, Brighton, MA",1,3300,7.4 km,3.1 km,6.7 km,3.4 km,42.3464355,-71.1419296
+"HEW at 1515 Comm Ave | 1525 Commonwealth Ave, Brighton, MA",2,4300,7.4 km,3.1 km,6.7 km,3.4 km,42.3464355,-71.1419296
+"Piano Craft Guild | 791 Tremont St, Boston, MA",1,3300,0.6 km,6.8 km,3.3 km,2.3 km,42.3388303,-71.08179729999999
+"Piano Craft Guild | 791 Tremont St, Boston, MA",2,4200,0.6 km,6.8 km,3.3 km,2.3 km,42.3388303,-71.08179729999999
+"Atrium On Commonwealth, 1079 Commonwealth Ave APT 532, Boston, MA 02215",3,4700,4.0 km,2.6 km,3.9 km,0.6 km,42.3524063,-71.1244356
+"Fenway Triangle | 180 Brookline Ave, Boston, MA",Studio,3790,1.6 km,3.2 km,3.6 km,1.1 km,42.34415,-71.10149419999999
+"Fenway Triangle | 180 Brookline Ave, Boston, MA",1,3884,1.6 km,3.2 km,3.6 km,1.1 km,42.34415,-71.10149419999999
+"Fenway Triangle | 180 Brookline Ave, Boston, MA",2,5024,1.6 km,3.2 km,3.6 km,1.1 km,42.34415,-71.10149419999999
+"West Square Apartments | 320 D St, Boston, MA",1,3300,4.1 km,9.7 km,7.6 km,8.4 km,42.340929,-71.04969299999999
+"West Square Apartments | 320 D St, Boston, MA",2,4225,4.1 km,9.7 km,7.6 km,8.4 km,42.340929,-71.04969299999999
+"Commonwealth Apartments | 1144 Commonwealth Ave, Allston, MA",Studio,2150,4.2 km,3.1 km,4.1 km,0.8 km,42.3502733,-71.12709149999999
+"Commonwealth Apartments | 1144 Commonwealth Ave, Allston, MA",1,2250,4.2 km,3.1 km,4.1 km,0.8 km,42.3502733,-71.12709149999999
+"Bremen 282 | 282 Bremen St, Boston, MA",Studio,2500,8.1 km,11.9 km,6.8 km,7.6 km,42.3758023,-71.0312515
+"Bremen 282 | 282 Bremen St, Boston, MA",1,2800,8.1 km,11.9 km,6.8 km,7.6 km,42.3758023,-71.0312515
+"Kilsyth Court Apartments | 71-75 Kilsyth Rd, Brighton, MA",Studio,2595,5.0 km,4.1 km,6.3 km,3.0 km,42.3399924,-71.14456179999999
+"The Bon | 1260 Boylston St, Boston, MA",Studio,3000,0.9 km,5.8 km,2.6 km,1.1 km,42.34475459999999,-71.09589319999999
+"The Bon | 1260 Boylston St, Boston, MA",1,4000,0.9 km,5.8 km,2.6 km,1.1 km,42.34475459999999,-71.09589319999999
+"The Bon | 1260 Boylston St, Boston, MA",2,5530,0.9 km,5.8 km,2.6 km,1.1 km,42.34475459999999,-71.09589319999999
+"Kilsyth Hall Apartments | 100 Kilsyth Rd, Boston, MA",Studio,2095,5.1 km,4.0 km,6.5 km,3.2 km,42.3402282,-71.1460962
+"Kilsyth Hall Apartments | 100 Kilsyth Rd, Boston, MA",1,2560,5.1 km,4.0 km,6.5 km,3.2 km,42.3402282,-71.1460962
+"62 on the Park | 62 Boylston St, Boston, MA",Studio,2500,2.8 km,7.6 km,4.2 km,3.5 km,42.3521048,-71.0643551
+"62 on the Park | 62 Boylston St, Boston, MA",1,3100,2.8 km,7.6 km,4.2 km,3.5 km,42.3521048,-71.0643551
+"Rockingham Glen | 30 Rockingham Ave, West Roxbury, MA",1,2165,12.8 km,14.2 km,14.6 km,12.1 km,42.2647149,-71.1564375
+"Rockingham Glen | 30 Rockingham Ave, West Roxbury, MA",2,2925,12.8 km,14.2 km,14.6 km,12.1 km,42.2647149,-71.1564375
+"Oak Row Apartments | 1235 Vfw Pkwy, West Roxbury, MA",2,3328,12.6 km,28.7 km,14.4 km,12.0 km,42.2780388,-71.17223129999999
+"Harbor Point | 24 Oyster Bay Rd, Dorchester, MA",1,2595,6.3 km,13.8 km,11.7 km,12.6 km,42.3195892,-71.0398253
+"Harbor Point | 24 Oyster Bay Rd, Dorchester, MA",2,3295,6.3 km,13.8 km,11.7 km,12.6 km,42.3195892,-71.0398253
+"Harbor Point | 24 Oyster Bay Rd, Dorchester, MA",3,4475,6.3 km,13.8 km,11.7 km,12.6 km,42.3195892,-71.0398253
+"280 Western | 280 Western Ave, Allston, MA",Studio,2800,7.1 km,0.6 km,4.9 km,5.6 km,42.3630605,-71.134299
+"280 Western | 280 Western Ave, Allston, MA",1,3300,7.1 km,0.6 km,4.9 km,5.6 km,42.3630605,-71.134299
+"280 Western | 280 Western Ave, Allston, MA",2,3999,7.1 km,0.6 km,4.9 km,5.6 km,42.3630605,-71.134299
+"BostonView Apartments, 130-140 Bowdoin St #1106, Boston, MA 02108",1,3000,4.7 km,8.4 km,3.0 km,4.1 km,42.3586491,-71.06272779999999
+"Peninsula Apartments | 401 Mount Vernon St, Dorchester, MA",Studio,2291,5.5 km,13.0 km,10.9 km,11.7 km,42.3170505,-71.041018
+"Peninsula Apartments | 401 Mount Vernon St, Dorchester, MA",1,2582,5.5 km,13.0 km,10.9 km,11.7 km,42.3170505,-71.041018
+"Peninsula Apartments | 401 Mount Vernon St, Dorchester, MA",2,3399,5.5 km,13.0 km,10.9 km,11.7 km,42.3170505,-71.041018
+"Harborview at the Navy Yard | 250 1st Ave, Charlestown, MA",Studio,3393,7.6 km,11.4 km,6.3 km,7.1 km,42.3773405,-71.0503354
+"Harborview at the Navy Yard | 250 1st Ave, Charlestown, MA",1,3291,7.6 km,11.4 km,6.3 km,7.1 km,42.3773405,-71.0503354
+"Harborview at the Navy Yard | 250 1st Ave, Charlestown, MA",2,6995,7.6 km,11.4 km,6.3 km,7.1 km,42.3773405,-71.0503354
+"Radius | 530 Western Ave, Brighton, MA",Studio,2667,7.8 km,1.6 km,7.9 km,6.3 km,42.3614938,-71.1448284
+"Radius | 530 Western Ave, Brighton, MA",1,3328,7.8 km,1.6 km,7.9 km,6.3 km,42.3614938,-71.1448284
+"Radius | 530 Western Ave, Brighton, MA",2,4024,7.8 km,1.6 km,7.9 km,6.3 km,42.3614938,-71.1448284
+"South Standard | 235 Old Colony Ave, Boston, MA",Studio,2590,3.3 km,10.3 km,8.2 km,9.0 km,42.3322032,-71.0544202
+"South Standard | 235 Old Colony Ave, Boston, MA",1,3380,3.3 km,10.3 km,8.2 km,9.0 km,42.3322032,-71.0544202
+"South Standard | 235 Old Colony Ave, Boston, MA",2,4505,3.3 km,10.3 km,8.2 km,9.0 km,42.3322032,-71.0544202
+"South Standard | 235 Old Colony Ave, Boston, MA",3,6185,3.3 km,10.3 km,8.2 km,9.0 km,42.3322032,-71.0544202
+"Avalon Brighton | 139 Washington St, Brighton, MA",Studio,2635,5.2 km,3.7 km,6.7 km,2.9 km,42.346069,-71.145748
+"Avalon Brighton | 139 Washington St, Brighton, MA",1,3520,5.2 km,3.7 km,6.7 km,2.9 km,42.346069,-71.145748
+"Avalon Brighton | 139 Washington St, Brighton, MA",2,3975,5.2 km,3.7 km,6.7 km,2.9 km,42.346069,-71.145748
+"Avalon Brighton | 139 Washington St, Brighton, MA",3,5515,5.2 km,3.7 km,6.7 km,2.9 km,42.346069,-71.145748
+"Washington Heights Apartments | 135 Washington St, Brighton, MA",Studio,2150,5.1 km,3.7 km,6.7 km,2.8 km,42.345173,-71.1449437
+"Washington Heights Apartments | 135 Washington St, Brighton, MA",1,2200,5.1 km,3.7 km,6.7 km,2.8 km,42.345173,-71.1449437
+"Washington Heights Apartments | 135 Washington St, Brighton, MA",2,2850,5.1 km,3.7 km,6.7 km,2.8 km,42.345173,-71.1449437
+"MBH Apartments | 1078 Boylston St, Boston, MA",1,2800,1.0 km,5.7 km,2.2 km,1.1 km,42.346938,-71.088022
+"The Rise at Longwood | 198 Hillside St, Boston, MA",1,2800,1.7 km,4.8 km,5.2 km,2.7 km,42.3319127,-71.10915279999999
+"The Rise at Longwood | 198 Hillside St, Boston, MA",2,3400,1.7 km,4.8 km,5.2 km,2.7 km,42.3319127,-71.10915279999999
+"Christopher Columbus Plaza | 145 Commercial St, Boston, MA",1,3300,5.5 km,9.7 km,3.9 km,5.9 km,42.36259,-71.0518804
+"Christopher Columbus Plaza | 145 Commercial St, Boston, MA",2,4495,5.5 km,9.7 km,3.9 km,5.9 km,42.36259,-71.0518804
+"1550 on the Charles | 1550 Soldiers Field Rd, Brighton, MA",Studio,2903,8.3 km,2.4 km,8.4 km,6.8 km,42.3596356,-71.1492308
+"1550 on the Charles | 1550 Soldiers Field Rd, Brighton, MA",1,2785,8.3 km,2.4 km,8.4 km,6.8 km,42.3596356,-71.1492308
+"1550 on the Charles | 1550 Soldiers Field Rd, Brighton, MA",2,3730,8.3 km,2.4 km,8.4 km,6.8 km,42.3596356,-71.1492308
+"Brandywyne Village | 88 Brandywyne Dr, Boston, MA",2,3482,10.7 km,15.7 km,9.3 km,10.2 km,42.3870849,-71.01250449999999
+"340 Bremen St | East Boston | 340 Bremen St, Boston, MA",1,2800,8.3 km,12.1 km,7.0 km,7.8 km,42.3772615,-71.0292983
+"340 Bremen St | East Boston | 340 Bremen St, Boston, MA",2,3250,8.3 km,12.1 km,7.0 km,7.8 km,42.3772615,-71.0292983
+"The Tremont, 1482 Tremont St #305, Roxbury Crossing, MA 02120",2,4566,1.0 km,7.4 km,4.3 km,2.7 km,42.3317864,-71.0986796
+"Clippership Apartments on the Wharf | 63 Lewis St, Boston, MA",Studio,2923,8.2 km,12.0 km,6.9 km,7.7 km,42.3679826,-71.0415352
+"Clippership Apartments on the Wharf | 63 Lewis St, Boston, MA",1,3413,8.2 km,12.0 km,6.9 km,7.7 km,42.3679826,-71.0415352
+"Clippership Apartments on the Wharf | 63 Lewis St, Boston, MA",2,4096,8.2 km,12.0 km,6.9 km,7.7 km,42.3679826,-71.0415352
+"12 Commonwealth | 12-14 Commonwealth Ave, Boston, MA",Studio,2900,2.6 km,7.1 km,3.5 km,2.5 km,42.3531,-71.07209999999999
+"12 Commonwealth | 12-14 Commonwealth Ave, Boston, MA",1,4025,2.6 km,7.1 km,3.5 km,2.5 km,42.3531,-71.07209999999999
+"Mission Main, 43 Smith St #S024C, Roxbury Crossing, MA 02120",3,5400,1.0 km,7.4 km,4.2 km,2.4 km,42.3339717,-71.0987923
+"Camden Street Apartments | 150 Camden St, Boston, MA",1,3250,0.1 km,6.7 km,3.2 km,2.2 km,42.33881969999999,-71.08304749999999
+"Camden Street Apartments | 150 Camden St, Boston, MA",2,4800,0.1 km,6.7 km,3.2 km,2.2 km,42.33881969999999,-71.08304749999999
+"The Kensington | 665 Washington St, Boston, MA",Studio,3350,4.5 km,8.7 km,6.1 km,6.9 km,42.351839,-71.063243
+"The Kensington | 665 Washington St, Boston, MA",1,3600,4.5 km,8.7 km,6.1 km,6.9 km,42.351839,-71.063243
+"The Kensington | 665 Washington St, Boston, MA",2,4781,4.5 km,8.7 km,6.1 km,6.9 km,42.351839,-71.063243
+"Adams Village | 725-735 Adams St, Dorchester, MA",Studio,1955,9.6 km,17.1 km,15.0 km,15.9 km,42.2845004,-71.0558569
+"55 BRIGHTON AT PACKARD CROSSING | 55 Brighton Ave, Allston, MA",1,3750,5.8 km,2.1 km,5.0 km,0.9 km,42.3528162,-71.1275374
+"55 BRIGHTON AT PACKARD CROSSING | 55 Brighton Ave, Allston, MA",2,4600,5.8 km,2.1 km,5.0 km,0.9 km,42.3528162,-71.1275374
+"106-116 Tremont Street, 106 Tremont St #116001, Brighton, MA 02135",2,2895,12.0 km,4.9 km,9.7 km,4.9 km,42.350748,-71.1730931
+"Eagle Rock Apartments and Townhomes at Brighton | 9 Bronsdon St, Brighton, MA",2,3255,6.4 km,2.1 km,5.6 km,3.2 km,42.35942259999999,-71.1435474
+"Eagle Rock Apartments and Townhomes at Brighton | 9 Bronsdon St, Brighton, MA",3,3665,6.4 km,2.1 km,5.6 km,3.2 km,42.35942259999999,-71.1435474
+"3200 Washington | 3200 Washington St, Jamaica Plain, MA",2,3749,3.0 km,9.8 km,8.0 km,5.5 km,42.3126459,-71.1009545
+"The Summit | 321 Summit Ave, Brighton, MA",2,3000,5.1 km,3.1 km,5.7 km,2.4 km,42.3455445,-71.1401195
+"Velo | 3686 Washington St, Jamaica Plain, MA",Studio,2638,4.7 km,8.8 km,9.2 km,6.7 km,42.3005051,-71.1120983
+"Velo | 3686 Washington St, Jamaica Plain, MA",1,2893,4.7 km,8.8 km,9.2 km,6.7 km,42.3005051,-71.1120983
+"Velo | 3686 Washington St, Jamaica Plain, MA",2,3831,4.7 km,8.8 km,9.2 km,6.7 km,42.3005051,-71.1120983
+"Velo | 3686 Washington St, Jamaica Plain, MA",3,4876,4.7 km,8.8 km,9.2 km,6.7 km,42.3005051,-71.1120983
+"Continuum | 219 Western Ave, Allston, MA",Studio,2844,5.9 km,0.3 km,4.5 km,4.4 km,42.3633122,-71.1307412
+"Continuum | 219 Western Ave, Allston, MA",1,4308,5.9 km,0.3 km,4.5 km,4.4 km,42.3633122,-71.1307412
+"Continuum | 219 Western Ave, Allston, MA",2,4665,5.9 km,0.3 km,4.5 km,4.4 km,42.3633122,-71.1307412
+"Reservoir Towers | 1925 Commonwealth Ave, Brighton, MA",1,2425,6.1 km,4.3 km,7.3 km,3.9 km,42.3389554,-71.154757
+"1943 DOT Ave | 1943 Dorchester Ave, Boston, MA",Studio,2075,10.6 km,18.1 km,16.0 km,16.8 km,42.2844384,-71.0653569
+"Avalon North Station | 1 Nashua St, Boston, MA",Studio,2770,4.6 km,8.4 km,3.3 km,4.1 km,42.365947,-71.063473
+"Avalon North Station | 1 Nashua St, Boston, MA",1,3620,4.6 km,8.4 km,3.3 km,4.1 km,42.365947,-71.063473
+"Avalon North Station | 1 Nashua St, Boston, MA",2,4280,4.6 km,8.4 km,3.3 km,4.1 km,42.365947,-71.063473
+"The Graphic Lofts | 32 Cambridge St, Charlestown, MA",Studio,2417,7.9 km,3.7 km,4.6 km,7.4 km,42.3831911,-71.0737481
+"The Graphic Lofts | 32 Cambridge St, Charlestown, MA",1,3075,7.9 km,3.7 km,4.6 km,7.4 km,42.3831911,-71.0737481
+"The Lofts at East Berkeley, 160 E Berkeley St APT 515, Boston, MA 02118",3,5400,2.5 km,7.8 km,4.4 km,3.4 km,42.3437805,-71.0646514
+"Serenity | 101 S Huntington Ave, Jamaica Plain, MA",Studio,2933,2.1 km,4.7 km,5.1 km,2.6 km,42.3294169,-71.1115243
+"Serenity | 101 S Huntington Ave, Jamaica Plain, MA",1,3284,2.1 km,4.7 km,5.1 km,2.6 km,42.3294169,-71.1115243
+"Serenity | 101 S Huntington Ave, Jamaica Plain, MA",2,4841,2.1 km,4.7 km,5.1 km,2.6 km,42.3294169,-71.1115243
+"Serenity | 101 S Huntington Ave, Jamaica Plain, MA",3,6451,2.1 km,4.7 km,5.1 km,2.6 km,42.3294169,-71.1115243
+"365 Western Ave | 365 Western Ave, Brighton, MA",Studio,2500,7.2 km,1.0 km,7.3 km,5.7 km,42.3631472,-71.1378921
+"365 Western Ave | 365 Western Ave, Brighton, MA",1,3200,7.2 km,1.0 km,7.3 km,5.7 km,42.3631472,-71.1378921
+"365 Western Ave | 365 Western Ave, Brighton, MA",2,3450,7.2 km,1.0 km,7.3 km,5.7 km,42.3631472,-71.1378921
+"365 Western Ave | 365 Western Ave, Brighton, MA",3,5000,7.2 km,1.0 km,7.3 km,5.7 km,42.3631472,-71.1378921
+"Addison | 144 Addison St, Boston, MA",Studio,2481,11.4 km,16.5 km,10.1 km,10.9 km,42.3861132,-71.0149303
+"Addison | 144 Addison St, Boston, MA",1,2497,11.4 km,16.5 km,10.1 km,10.9 km,42.3861132,-71.0149303
+"Addison | 144 Addison St, Boston, MA",2,2945,11.4 km,16.5 km,10.1 km,10.9 km,42.3861132,-71.0149303
+"The Harvey | 50 Hood Park Dr, Boston, MA",Studio,2902,7.5 km,4.9 km,4.1 km,7.0 km,42.3810812,-71.0724671
+"The Harvey | 50 Hood Park Dr, Boston, MA",1,3112,7.5 km,4.9 km,4.1 km,7.0 km,42.3810812,-71.0724671
+"The Harvey | 50 Hood Park Dr, Boston, MA",2,5243,7.5 km,4.9 km,4.1 km,7.0 km,42.3810812,-71.0724671
+"Malvern Place Apartments, 40 Malvern St #502, Allston, MA 02134",2,4150,6.1 km,2.4 km,5.3 km,1.0 km,42.3540232,-71.1250307
+"Alder at Allston Yards | 301 Guest St, Brighton, MA",Studio,3275,8.1 km,1.9 km,5.7 km,2.2 km,42.3558886,-71.1401106
+"Alder at Allston Yards | 301 Guest St, Brighton, MA",1,3540,8.1 km,1.9 km,5.7 km,2.2 km,42.3558886,-71.1401106
+"Alder at Allston Yards | 301 Guest St, Brighton, MA",2,4950,8.1 km,1.9 km,5.7 km,2.2 km,42.3558886,-71.1401106
+"Alder at Allston Yards | 301 Guest St, Brighton, MA",3,5999,8.1 km,1.9 km,5.7 km,2.2 km,42.3558886,-71.1401106
+"Woodstock Ave | 63 Woodstock Ave, Brighton, MA",Studio,1950,4.3 km,3.1 km,5.2 km,1.9 km,42.3463751,-71.1368212
+"The Monroe | 105 Washington St, Brighton, MA",2,4300,5.1 km,3.7 km,6.7 km,2.8 km,42.3450458,-71.1445476
+"One Greenway | 99 Kneeland St, Boston, MA",1,3397,3.8 km,7.9 km,6.0 km,6.8 km,42.3500211,-71.0600154
+"One Greenway | 99 Kneeland St, Boston, MA",2,4306,3.8 km,7.9 km,6.0 km,6.8 km,42.3500211,-71.0600154
+"100 Jersey St. | 50 Peterborough St, Boston, MA",1,3200,0.9 km,6.0 km,2.9 km,1.5 km,42.3435159,-71.09709389999999
+"100 Jersey St. | 50 Peterborough St, Boston, MA",2,4200,0.9 km,6.0 km,2.9 km,1.5 km,42.3435159,-71.09709389999999
+"Avalon at Prudential Center | 770 Boylston St, Boston, MA",Studio,3240,2.1 km,7.0 km,3.4 km,2.3 km,42.34814160000001,-71.0796293
+"Avalon at Prudential Center | 770 Boylston St, Boston, MA",1,3620,2.1 km,7.0 km,3.4 km,2.3 km,42.34814160000001,-71.0796293
+"Avalon at Prudential Center | 770 Boylston St, Boston, MA",2,5885,2.1 km,7.0 km,3.4 km,2.3 km,42.34814160000001,-71.0796293
+"Avalon at Prudential Center | 770 Boylston St, Boston, MA",3,9493,2.1 km,7.0 km,3.4 km,2.3 km,42.34814160000001,-71.0796293
+"Portside at East Pier | 40 E Pier Dr, Boston, MA",Studio,2589,8.7 km,12.4 km,7.3 km,8.2 km,42.36604519999999,-71.0401522
+"Portside at East Pier | 40 E Pier Dr, Boston, MA",1,2752,8.7 km,12.4 km,7.3 km,8.2 km,42.36604519999999,-71.0401522
+"Portside at East Pier | 40 E Pier Dr, Boston, MA",2,4147,8.7 km,12.4 km,7.3 km,8.2 km,42.36604519999999,-71.0401522
+"The Residences on Broadway | 50 W Broadway, Boston, MA",Studio,2695,3.6 km,9.1 km,7.0 km,7.9 km,42.34221609999999,-71.0558843
+"The Residences on Broadway | 50 W Broadway, Boston, MA",1,2951,3.6 km,9.1 km,7.0 km,7.9 km,42.34221609999999,-71.0558843
+"The Residences on Broadway | 50 W Broadway, Boston, MA",2,3859,3.6 km,9.1 km,7.0 km,7.9 km,42.34221609999999,-71.0558843
+"Selkirk Place Apartments, 56-58 Selkirk Rd #56-2, Brighton, MA 02135",2,2700,5.8 km,4.3 km,6.9 km,3.6 km,42.339292,-71.14970799999999
+"Carson Tower | 1410 Columbia Rd, Boston, MA",1,3000,3.9 km,12.9 km,10.8 km,11.7 km,42.33095429999999,-71.0437874
+"Carson Tower | 1410 Columbia Rd, Boston, MA",2,3200,3.9 km,12.9 km,10.8 km,11.7 km,42.33095429999999,-71.0437874
+"Carson Tower | 1410 Columbia Rd, Boston, MA",3,4400,3.9 km,12.9 km,10.8 km,11.7 km,42.33095429999999,-71.0437874
+"Church Park | 221 Massachusetts Ave, Boston, MA",Studio,3905,0.4 km,6.1 km,3.0 km,1.5 km,42.3443641,-71.08660069999999
+"Church Park | 221 Massachusetts Ave, Boston, MA",1,4030,0.4 km,6.1 km,3.0 km,1.5 km,42.3443641,-71.08660069999999
+"Church Park | 221 Massachusetts Ave, Boston, MA",2,5825,0.4 km,6.1 km,3.0 km,1.5 km,42.3443641,-71.08660069999999
+"252 Independence | 252 Independence Dr, Chestnut Hill, MA",1,3100,8.0 km,11.4 km,11.1 km,8.6 km,42.296997,-71.15644069999999
+"252 Independence | 252 Independence Dr, Chestnut Hill, MA",2,3600,8.0 km,11.4 km,11.1 km,8.6 km,42.296997,-71.15644069999999
+"36-44 Quint Ave, 36 Quint Ave APT 3, Allston, MA 02134",1,2495,5.8 km,2.2 km,5.0 km,1.5 km,42.3519277,-71.13383019999999
+"Ink Block | 300 Harrison Ave, Boston, MA",Studio,2883,3.5 km,9.1 km,7.0 km,7.8 km,42.3460784,-71.0629343
+"Ink Block | 300 Harrison Ave, Boston, MA",1,4038,3.5 km,9.1 km,7.0 km,7.8 km,42.3460784,-71.0629343
+"Ink Block | 300 Harrison Ave, Boston, MA",2,5135,3.5 km,9.1 km,7.0 km,7.8 km,42.3460784,-71.0629343
+"Ink Block | 300 Harrison Ave, Boston, MA",3,7073,3.5 km,9.1 km,7.0 km,7.8 km,42.3460784,-71.0629343
+"Garrison Square | 7 Harcourt St, Boston, MA",1,3624,1.7 km,7.0 km,3.0 km,2.0 km,42.34603,-71.07867759999999
+"Garrison Square | 7 Harcourt St, Boston, MA",2,4875,1.7 km,7.0 km,3.0 km,2.0 km,42.34603,-71.07867759999999
+"1200 Commonwealth Ave | 1200 Commonwealth Ave, Allston, MA",2,2895,11.4 km,5.4 km,11.7 km,4.9 km,42.340154,-71.1656705
+"Devonshire | 1 Devonshire Pl, Boston, MA",1,3470,5.1 km,9.2 km,3.4 km,4.5 km,42.3582103,-71.0574989
+"Devonshire | 1 Devonshire Pl, Boston, MA",2,4161,5.1 km,9.2 km,3.4 km,4.5 km,42.3582103,-71.0574989
+"Boston East | 126 Border St, East Boston, MA",Studio,2664,7.8 km,11.6 km,6.5 km,7.3 km,42.3735394,-71.04100989999999
+"Boston East | 126 Border St, East Boston, MA",1,2613,7.8 km,11.6 km,6.5 km,7.3 km,42.3735394,-71.04100989999999
+"Boston East | 126 Border St, East Boston, MA",2,3358,7.8 km,11.6 km,6.5 km,7.3 km,42.3735394,-71.04100989999999
+"Commonwealth Gardens | 1131 Commonwealth Ave, Allston, MA",3,3350,4.8 km,2.3 km,4.6 km,1.3 km,42.35126109999999,-71.12650289999999
+"225 Centre | 225 Centre St, Roxbury, MA",1,2700,1.9 km,8.7 km,5.6 km,4.0 km,42.3229149,-71.099018
+"225 Centre | 225 Centre St, Roxbury, MA",2,3400,1.9 km,8.7 km,5.6 km,4.0 km,42.3229149,-71.099018
+"225 Centre | 225 Centre St, Roxbury, MA",3,4800,1.9 km,8.7 km,5.6 km,4.0 km,42.3229149,-71.099018
+"28 Fleet St | 28 Fleet St, Boston, MA",2,3500,7.3 km,10.0 km,5.6 km,5.8 km,42.364346,-71.0522249
+"28 Fleet St | 28 Fleet St, Boston, MA",3,4700,7.3 km,10.0 km,5.6 km,5.8 km,42.364346,-71.0522249
+"28 Fleet St | 28 Fleet St, Boston, MA",4,6400,7.3 km,10.0 km,5.6 km,5.8 km,42.364346,-71.0522249
+"Bower | 771 Beacon St, Boston, MA",Studio,3552,1.7 km,2.9 km,3.3 km,0.8 km,42.347404,-71.1010124
+"Bower | 771 Beacon St, Boston, MA",1,3402,1.7 km,2.9 km,3.3 km,0.8 km,42.347404,-71.1010124
+"Bower | 771 Beacon St, Boston, MA",2,6237,1.7 km,2.9 km,3.3 km,0.8 km,42.347404,-71.1010124
+"Boylston St, 40 | 40 Boylston St, Boston, MA",1,3000,4.5 km,8.7 km,6.1 km,6.9 km,42.3521637,-71.06380089999999
+"Boylston St, 40 | 40 Boylston St, Boston, MA",2,4000,4.5 km,8.7 km,6.1 km,6.9 km,42.3521637,-71.06380089999999
+"Lantera at Boston Landing | 125 Guest St, Boston, MA",Studio,2474,8.7 km,2.5 km,5.7 km,2.4 km,42.3564009,-71.1427164
+"Lantera at Boston Landing | 125 Guest St, Boston, MA",1,3126,8.7 km,2.5 km,5.7 km,2.4 km,42.3564009,-71.1427164
+"Lantera at Boston Landing | 125 Guest St, Boston, MA",2,4143,8.7 km,2.5 km,5.7 km,2.4 km,42.3564009,-71.1427164
+"Lantera at Boston Landing | 125 Guest St, Boston, MA",3,5926,8.7 km,2.5 km,5.7 km,2.4 km,42.3564009,-71.1427164
+"One Canal Apartments | 1 Canal St, Boston, MA",Studio,2977,5.3 km,9.0 km,3.5 km,4.7 km,42.363792,-71.05897999999999
+"One Canal Apartments | 1 Canal St, Boston, MA",1,3418,5.3 km,9.0 km,3.5 km,4.7 km,42.363792,-71.05897999999999
+"One Canal Apartments | 1 Canal St, Boston, MA",2,4797,5.3 km,9.0 km,3.5 km,4.7 km,42.363792,-71.05897999999999
+"Coppersmith Village, 99 Border St #310, Boston, MA 02128",2,3150,7.9 km,11.6 km,6.5 km,7.4 km,42.372432,-71.0412527
+"James and Harrison Court | 45 E Newton St, Boston, MA",Studio,3335,1.6 km,10.2 km,4.1 km,3.0 km,42.3373043,-71.0731297
+"James and Harrison Court | 45 E Newton St, Boston, MA",1,3255,1.6 km,10.2 km,4.1 km,3.0 km,42.3373043,-71.0731297
+"James and Harrison Court | 45 E Newton St, Boston, MA",2,3920,1.6 km,10.2 km,4.1 km,3.0 km,42.3373043,-71.0731297
+"The Harlo | 1350 Boylston St, Boston, MA",Studio,3250,1.2 km,6.1 km,2.9 km,1.2 km,42.343956,-71.0996213
+"The Harlo | 1350 Boylston St, Boston, MA",1,4165,1.2 km,6.1 km,2.9 km,1.2 km,42.343956,-71.0996213
+"The Harlo | 1350 Boylston St, Boston, MA",2,5925,1.2 km,6.1 km,2.9 km,1.2 km,42.343956,-71.0996213
+"Hamilton Union | 435 Cambridge St, Allston, MA",1,2100,5.4 km,1.7 km,4.6 km,1.6 km,42.3549789,-71.13465839999999
+"Hamilton Union | 435 Cambridge St, Allston, MA",2,2600,5.4 km,1.7 km,4.6 km,1.6 km,42.3549789,-71.13465839999999
+"Hamilton Union | 435 Cambridge St, Allston, MA",3,3150,5.4 km,1.7 km,4.6 km,1.6 km,42.3549789,-71.13465839999999
+"Hamilton Union | 435 Cambridge St, Allston, MA",4,3750,5.4 km,1.7 km,4.6 km,1.6 km,42.3549789,-71.13465839999999
+"Atlas Residences, 223 Harvard Ave APT 8, Allston, MA 02134",2,3400,4.0 km,2.3 km,4.5 km,1.2 km,42.3492584,-71.1305236
+"Courtyard at North Beacon | 140 N Beacon St, Brighton, MA",2,3200,8.8 km,2.5 km,5.7 km,2.4 km,42.354837,-71.14606359999999
+"3-15 Lorraine Terrace | 3 Lorraine Ter, Allston, MA",2,2895,4.5 km,2.8 km,5.3 km,2.0 km,42.3479094,-71.1391661
+"3-15 Lorraine Terrace | 3 Lorraine Ter, Allston, MA",3,3495,4.5 km,2.8 km,5.3 km,2.0 km,42.3479094,-71.1391661
+"Mezzo Design Lofts | 30 Caldwell St, Charlestown, MA",Studio,2268,8.4 km,4.2 km,5.0 km,7.9 km,42.3845804,-71.077551
+"Mezzo Design Lofts | 30 Caldwell St, Charlestown, MA",1,2917,8.4 km,4.2 km,5.0 km,7.9 km,42.3845804,-71.077551
+"Mezzo Design Lofts | 30 Caldwell St, Charlestown, MA",2,4262,8.4 km,4.2 km,5.0 km,7.9 km,42.3845804,-71.077551
+"AVA Back Bay | 790 Boylston St, Boston, MA",Studio,3225,2.1 km,6.2 km,2.5 km,1.5 km,42.3479389,-71.0816542
+"AVA Back Bay | 790 Boylston St, Boston, MA",1,3990,2.1 km,6.2 km,2.5 km,1.5 km,42.3479389,-71.0816542
+"AVA Back Bay | 790 Boylston St, Boston, MA",2,6085,2.1 km,6.2 km,2.5 km,1.5 km,42.3479389,-71.0816542
+"AVA Back Bay | 790 Boylston St, Boston, MA",3,8660,2.1 km,6.2 km,2.5 km,1.5 km,42.3479389,-71.0816542
+"80 Fuller Street, 80 Fuller St, Dorchester Center, MA 02124",3,4500,11.2 km,18.6 km,16.6 km,17.4 km,42.2825398,-71.06930059999999
+"Gardner Terrace, 9 Gardner Ter, Allston, MA 02134",3,4200,6.1 km,2.4 km,5.3 km,1.1 km,42.3535743,-71.1258921
+"Ora Seaport | 899 Congress St, Boston, MA",Studio,2926,5.7 km,10.0 km,8.1 km,10.0 km,42.3478898,-71.0370646
+"Ora Seaport | 899 Congress St, Boston, MA",1,3992,5.7 km,10.0 km,8.1 km,10.0 km,42.3478898,-71.0370646
+"Ora Seaport | 899 Congress St, Boston, MA",2,5298,5.7 km,10.0 km,8.1 km,10.0 km,42.3478898,-71.0370646
+"Ora Seaport | 899 Congress St, Boston, MA",3,7513,5.7 km,10.0 km,8.1 km,10.0 km,42.3478898,-71.0370646
+"16-18 Highgate, 16 Highgate St #303, Allston, MA 02134",2,3895,5.5 km,1.8 km,4.7 km,1.4 km,42.3553824,-71.1315991
+"Trac 75 | 75 Braintree St, Allston, MA",Studio,3115,5.5 km,1.8 km,4.7 km,1.7 km,42.35642439999999,-71.1355537
+"Trac 75 | 75 Braintree St, Allston, MA",1,3000,5.5 km,1.8 km,4.7 km,1.7 km,42.35642439999999,-71.1355537
+"Trac 75 | 75 Braintree St, Allston, MA",2,4130,5.5 km,1.8 km,4.7 km,1.7 km,42.35642439999999,-71.1355537
+"BLDG 89 | 89 Brighton Ave, Allston, MA",1,3347,5.5 km,1.9 km,4.7 km,1.7 km,42.3529726,-71.1296533
+"The Bennington, 917 Bennington St #206, Boston, MA 02128",2,3200,11.5 km,16.6 km,10.2 km,11.0 km,42.3854085,-71.0098173
+"The Brookliner | 5 Washington St, Brighton, MA",Studio,3332,4.6 km,3.7 km,5.7 km,2.4 km,42.342547,-71.140017
+"The Brookliner | 5 Washington St, Brighton, MA",1,3384,4.6 km,3.7 km,5.7 km,2.4 km,42.342547,-71.140017
+"The Brookliner | 5 Washington St, Brighton, MA",2,4498,4.6 km,3.7 km,5.7 km,2.4 km,42.342547,-71.140017
+"80 Sutherland | 80 Sutherland Rd, Brighton, MA",1,2400,5.6 km,4.1 km,6.6 km,3.3 km,42.3390923,-71.14933289999999
+"80 Sutherland | 80 Sutherland Rd, Brighton, MA",2,2750,5.6 km,4.1 km,6.6 km,3.3 km,42.3390923,-71.14933289999999
+"Westland Avenue | 66 Westland Ave, Boston, MA",1,2151,0.2 km,5.9 km,2.7 km,1.3 km,42.34365349999999,-71.0888971
+"Westland Avenue | 66 Westland Ave, Boston, MA",2,2850,0.2 km,5.9 km,2.7 km,1.3 km,42.34365349999999,-71.0888971
+"100 Pier 4 | 100 Pier 4 Blvd, Boston, MA",Studio,3252,5.4 km,10.1 km,7.6 km,8.4 km,42.3514811,-71.0433491
+"100 Pier 4 | 100 Pier 4 Blvd, Boston, MA",1,3778,5.4 km,10.1 km,7.6 km,8.4 km,42.3514811,-71.0433491
+"100 Pier 4 | 100 Pier 4 Blvd, Boston, MA",2,4492,5.4 km,10.1 km,7.6 km,8.4 km,42.3514811,-71.0433491
+"1-6 Ashford Court, 1 Ashford Ct #505, Allston, MA 02134",1,3500,5.7 km,2.0 km,4.9 km,1.2 km,42.3541631,-71.1261572
+"The Eddy | 10 New St, Boston, MA",Studio,2622,8.2 km,11.9 km,6.8 km,7.7 km,42.3713139,-71.04407069999999
+"The Eddy | 10 New St, Boston, MA",1,3058,8.2 km,11.9 km,6.8 km,7.7 km,42.3713139,-71.04407069999999
+"The Eddy | 10 New St, Boston, MA",2,3997,8.2 km,11.9 km,6.8 km,7.7 km,42.3713139,-71.04407069999999
+"Park Lane Seaport | 1 Park Ln, Boston, MA",Studio,3239,5.7 km,10.1 km,7.8 km,8.7 km,42.3479114,-71.0383665
+"Park Lane Seaport | 1 Park Ln, Boston, MA",1,3515,5.7 km,10.1 km,7.8 km,8.7 km,42.3479114,-71.0383665
+"Park Lane Seaport | 1 Park Ln, Boston, MA",2,4079,5.7 km,10.1 km,7.8 km,8.7 km,42.3479114,-71.0383665
+"The Colonnade Residences | 118 Huntington Ave, Boston, MA",2,7200,1.7 km,6.8 km,3.0 km,2.5 km,42.3461121,-71.080483
+"Alcott | 35 Lomasney Way, Boston, MA",1,3685,4.7 km,8.4 km,3.3 km,4.2 km,42.365369,-71.06474779999999
+"Alcott | 35 Lomasney Way, Boston, MA",2,5230,4.7 km,8.4 km,3.3 km,4.2 km,42.365369,-71.06474779999999
+"David at 775, 775 Morton St, Mattapan, MA 02126",2,2950,6.9 km,19.9 km,12.1 km,9.6 km,42.28298100000001,-71.0894564
+"3-15 Carol Avenue, 3 Carol Ave #15-10, Brighton, MA 02135",2,3095,5.0 km,3.4 km,5.6 km,2.3 km,42.345205,-71.1408672
+"The Smith | 89 E Dedham St, Boston, MA",Studio,3279,2.2 km,9.7 km,7.6 km,8.5 km,42.3385573,-71.06907079999999
+"The Smith | 89 E Dedham St, Boston, MA",1,3480,2.2 km,9.7 km,7.6 km,8.5 km,42.3385573,-71.06907079999999
+"The Smith | 89 E Dedham St, Boston, MA",2,5015,2.2 km,9.7 km,7.6 km,8.5 km,42.3385573,-71.06907079999999
+"The Smith | 89 E Dedham St, Boston, MA",3,7868,2.2 km,9.7 km,7.6 km,8.5 km,42.3385573,-71.06907079999999
+"30 Dalton | 30 Dalton St, Boston, MA",1,4236,1.0 km,5.9 km,2.4 km,1.4 km,42.3459101,-71.0844803
+"30 Dalton | 30 Dalton St, Boston, MA",2,7095,1.0 km,5.9 km,2.4 km,1.4 km,42.3459101,-71.0844803
+"30 Dalton | 30 Dalton St, Boston, MA",3,27208,1.0 km,5.9 km,2.4 km,1.4 km,42.3459101,-71.0844803
+"Zero Athens | 35 W 2nd St, Boston, MA",Studio,2650,3.7 km,9.1 km,7.0 km,7.8 km,42.3432057,-71.0562425
+"Zero Athens | 35 W 2nd St, Boston, MA",1,2850,3.7 km,9.1 km,7.0 km,7.8 km,42.3432057,-71.0562425
+"The Indie | 35-43 Braintree St, Allston, MA",Studio,2583,5.4 km,1.8 km,4.6 km,1.6 km,42.3563408,-71.1344664
+"The Indie | 35-43 Braintree St, Allston, MA",1,3388,5.4 km,1.8 km,4.6 km,1.6 km,42.3563408,-71.1344664
+"The Indie | 35-43 Braintree St, Allston, MA",2,4551,5.4 km,1.8 km,4.6 km,1.6 km,42.3563408,-71.1344664
+"The Indie | 35-43 Braintree St, Allston, MA",3,5300,5.4 km,1.8 km,4.6 km,1.6 km,42.3563408,-71.1344664
+"286 & 288 Chestnut Hill Avenue | 286 Chestnut Hill Ave, Brighton, MA",Studio,2250,5.9 km,4.4 km,6.9 km,3.7 km,42.338169,-71.15316
+"286 & 288 Chestnut Hill Avenue | 286 Chestnut Hill Ave, Brighton, MA",1,2450,5.9 km,4.4 km,6.9 km,3.7 km,42.338169,-71.15316
+"Albany Street Apartments | 601 Albany St, Boston, MA",Studio,2500,2.9 km,1.9 km,0.8 km,1.9 km,42.3585955,-71.1004945
+"Albany Street Apartments | 601 Albany St, Boston, MA",1,3000,2.9 km,1.9 km,0.8 km,1.9 km,42.3585955,-71.1004945
+"Albany Street Apartments | 601 Albany St, Boston, MA",2,3450,2.9 km,1.9 km,0.8 km,1.9 km,42.3585955,-71.1004945
+"Gables Seaport | 501 Congress St, Boston, MA",Studio,2875,5.3 km,9.6 km,7.8 km,8.6 km,42.3486455,-71.0421303
+"Gables Seaport | 501 Congress St, Boston, MA",1,3695,5.3 km,9.6 km,7.8 km,8.6 km,42.3486455,-71.0421303
+"Gables Seaport | 501 Congress St, Boston, MA",2,5255,5.3 km,9.6 km,7.8 km,8.6 km,42.3486455,-71.0421303
+"65 Chiswick Rd | 65 Chiswick Rd, Brighton, MA",1,2400,5.8 km,4.3 km,6.8 km,3.5 km,42.3397735,-71.1495546
+"65 Chiswick Rd | 65 Chiswick Rd, Brighton, MA",2,2600,5.8 km,4.3 km,6.8 km,3.5 km,42.3397735,-71.1495546
+"ONE52 - Luxury Apartments | 152 Liverpool St, Boston, MA",1,2750,7.8 km,11.6 km,6.5 km,7.3 km,42.3733886,-71.0401856
+"ONE52 - Luxury Apartments | 152 Liverpool St, Boston, MA",2,3350,7.8 km,11.6 km,6.5 km,7.3 km,42.3733886,-71.0401856
+"LUKA on the Common | 45 Stuart St, Boston, MA",Studio,3230,2.8 km,7.6 km,4.1 km,3.5 km,42.35119470000001,-71.0640159
+"LUKA on the Common | 45 Stuart St, Boston, MA",1,3650,2.8 km,7.6 km,4.1 km,3.5 km,42.35119470000001,-71.0640159
+"LUKA on the Common | 45 Stuart St, Boston, MA",2,4720,2.8 km,7.6 km,4.1 km,3.5 km,42.35119470000001,-71.0640159
+"Eleven West | 11 W Broadway, Boston, MA",1,3150,3.8 km,9.1 km,7.0 km,7.8 km,42.3423981,-71.056951
+"Eleven West | 11 W Broadway, Boston, MA",2,3937,3.8 km,9.1 km,7.0 km,7.8 km,42.3423981,-71.056951
+"660 Washington | 660 Washington St, Boston, MA",Studio,3210,4.5 km,8.7 km,6.1 km,6.9 km,42.3517112,-71.0625762
+"660 Washington | 660 Washington St, Boston, MA",1,3505,4.5 km,8.7 km,6.1 km,6.9 km,42.3517112,-71.0625762
+"660 Washington | 660 Washington St, Boston, MA",2,5360,4.5 km,8.7 km,6.1 km,6.9 km,42.3517112,-71.0625762
+"660 Washington | 660 Washington St, Boston, MA",3,6398,4.5 km,8.7 km,6.1 km,6.9 km,42.3517112,-71.0625762
+"Castle Square Apartments, 484 Tremont St #72, Boston, MA 02116",1,2805,3.2 km,7.3 km,4.6 km,3.9 km,42.3459157,-71.0690664
+"Waterside Place by Windsor | 505 Congress St, Boston, MA",1,3335,5.2 km,9.5 km,7.7 km,8.5 km,42.3480404,-71.04120379999999
+"Waterside Place by Windsor | 505 Congress St, Boston, MA",2,4205,5.2 km,9.5 km,7.7 km,8.5 km,42.3480404,-71.04120379999999
+"345 Harrison | 345 Harrison Ave, Boston, MA",Studio,2899,2.5 km,7.5 km,4.5 km,3.5 km,42.3451015,-71.0643061
+"345 Harrison | 345 Harrison Ave, Boston, MA",1,3580,2.5 km,7.5 km,4.5 km,3.5 km,42.3451015,-71.0643061
+"345 Harrison | 345 Harrison Ave, Boston, MA",2,5255,2.5 km,7.5 km,4.5 km,3.5 km,42.3451015,-71.0643061
+"The Metlo | 399 Congress St, Boston, MA",Studio,2869,5.1 km,9.8 km,7.3 km,8.1 km,42.3490324,-71.0450524
+"The Metlo | 399 Congress St, Boston, MA",1,3856,5.1 km,9.8 km,7.3 km,8.1 km,42.3490324,-71.0450524
+"The Metlo | 399 Congress St, Boston, MA",2,5523,5.1 km,9.8 km,7.3 km,8.1 km,42.3490324,-71.0450524
+"The Metlo | 399 Congress St, Boston, MA",3,5648,5.1 km,9.8 km,7.3 km,8.1 km,42.3490324,-71.0450524
+"1197 Commonwealth | 1197 Commonwealth Ave, Allston, MA",Studio,2000,4.5 km,2.0 km,4.4 km,1.1 km,42.3509546,-71.1295849
+"1197 Commonwealth | 1197 Commonwealth Ave, Allston, MA",1,2450,4.5 km,2.0 km,4.4 km,1.1 km,42.3509546,-71.1295849
+"1197 Commonwealth | 1197 Commonwealth Ave, Allston, MA",2,2950,4.5 km,2.0 km,4.4 km,1.1 km,42.3509546,-71.1295849
+"1197 Commonwealth | 1197 Commonwealth Ave, Allston, MA",3,4260,4.5 km,2.0 km,4.4 km,1.1 km,42.3509546,-71.1295849
+"1082 Commonwealth Ave | 1082 Commonwealth Ave, Boston, MA",1,2800,11.4 km,5.4 km,11.7 km,4.9 km,42.340154,-71.1656705
+"1082 Commonwealth Ave | 1082 Commonwealth Ave, Boston, MA",2,3300,11.4 km,5.4 km,11.7 km,4.9 km,42.340154,-71.1656705
+"Radian | 120 Kingston St, Boston, MA",1,3771,4.4 km,8.5 km,6.0 km,6.8 km,42.3522845,-71.0590994
+"Radian | 120 Kingston St, Boston, MA",2,5203,4.4 km,8.5 km,6.0 km,6.8 km,42.3522845,-71.0590994
+"Radian | 120 Kingston St, Boston, MA",3,7079,4.4 km,8.5 km,6.0 km,6.8 km,42.3522845,-71.0590994
+"The Victor by Windsor | 110 Beverly St, Boston, MA",Studio,3085,6.1 km,10.3 km,3.4 km,4.6 km,42.365433,-71.05999849999999
+"The Victor by Windsor | 110 Beverly St, Boston, MA",1,3325,6.1 km,10.3 km,3.4 km,4.6 km,42.365433,-71.05999849999999
+"The Victor by Windsor | 110 Beverly St, Boston, MA",2,4615,6.1 km,10.3 km,3.4 km,4.6 km,42.365433,-71.05999849999999
+"Gardner Court Apartments, 72 Gardner St #F1, Allston, MA 02134",4,4395,6.2 km,2.6 km,5.4 km,1.2 km,42.3540534,-71.1272508
+"735 Truman Apartments, 735 Truman Pkwy, Hyde Park, MA 02136",1,2510,10.8 km,14.7 km,15.1 km,12.6 km,42.25170300000001,-71.12053399999999
+"Girard | 50 Malden St, Boston, MA",1,3150,2.1 km,9.6 km,7.5 km,3.3 km,42.3400742,-71.0679048
+"Girard | 50 Malden St, Boston, MA",2,3835,2.1 km,9.6 km,7.5 km,3.3 km,42.3400742,-71.0679048
+"Hub50House | 50 Causeway St, Boston, MA",Studio,3248,4.9 km,8.7 km,3.1 km,4.4 km,42.3647173,-71.06315359999999
+"Hub50House | 50 Causeway St, Boston, MA",1,3815,4.9 km,8.7 km,3.1 km,4.4 km,42.3647173,-71.06315359999999
+"Hub50House | 50 Causeway St, Boston, MA",2,4971,4.9 km,8.7 km,3.1 km,4.4 km,42.3647173,-71.06315359999999
+"112 Jersey ST. | 112 Jersey St, Boston, MA",Studio,2400,0.8 km,6.1 km,2.9 km,1.1 km,42.3430721,-71.0969148
+"112 Jersey ST. | 112 Jersey St, Boston, MA",1,2700,0.8 km,6.1 km,2.9 km,1.1 km,42.3430721,-71.0969148
+"112 Jersey ST. | 112 Jersey St, Boston, MA",2,3850,0.8 km,6.1 km,2.9 km,1.1 km,42.3430721,-71.0969148
+"Diamond Fenway | 9 Miner St, Boston, MA",1,3400,1.9 km,2.8 km,3.2 km,0.7 km,42.3462607,-71.10309099999999
+"Diamond Fenway | 9 Miner St, Boston, MA",2,4800,1.9 km,2.8 km,3.2 km,0.7 km,42.3462607,-71.10309099999999
+"Pierce Boston | 200 Brookline Ave, Boston, MA",Studio,4142,1.6 km,3.1 km,3.5 km,1.0 km,42.3437913,-71.1019092
+"Pierce Boston | 200 Brookline Ave, Boston, MA",1,4412,1.6 km,3.1 km,3.5 km,1.0 km,42.3437913,-71.1019092
+"Pierce Boston | 200 Brookline Ave, Boston, MA",2,8083,1.6 km,3.1 km,3.5 km,1.0 km,42.3437913,-71.1019092
+"Pierce Boston | 200 Brookline Ave, Boston, MA",3,10129,1.6 km,3.1 km,3.5 km,1.0 km,42.3437913,-71.1019092
+"656 Saratoga Street | 656 Saratoga St, Boston, MA",1,2700,9.4 km,14.4 km,8.0 km,8.8 km,42.382464,-71.02126799999999
+"656 Saratoga Street | 656 Saratoga St, Boston, MA",2,3500,9.4 km,14.4 km,8.0 km,8.8 km,42.382464,-71.02126799999999
+"212 Stuart | 212 Stuart St, Boston, MA",1,4540,2.7 km,7.7 km,4.0 km,3.4 km,42.3504464,-71.06818659999999
+"212 Stuart | 212 Stuart St, Boston, MA",2,7195,2.7 km,7.7 km,4.0 km,3.4 km,42.3504464,-71.06818659999999
+"212 Stuart | 212 Stuart St, Boston, MA",3,22510,2.7 km,7.7 km,4.0 km,3.4 km,42.3504464,-71.06818659999999
+"Troy Boston | 55 Traveler St, Boston, MA",Studio,2785,3.1 km,8.7 km,6.7 km,7.5 km,42.3440127,-71.06254419999999
+"Troy Boston | 55 Traveler St, Boston, MA",1,3350,3.1 km,8.7 km,6.7 km,7.5 km,42.3440127,-71.06254419999999
+"Troy Boston | 55 Traveler St, Boston, MA",2,4065,3.1 km,8.7 km,6.7 km,7.5 km,42.3440127,-71.06254419999999
+"Emerson Place | 1 Emerson Pl, Boston, MA",Studio,2710,4.5 km,8.3 km,2.9 km,4.0 km,42.3645487,-71.0687779
+"Emerson Place | 1 Emerson Pl, Boston, MA",1,2975,4.5 km,8.3 km,2.9 km,4.0 km,42.3645487,-71.0687779
+"Emerson Place | 1 Emerson Pl, Boston, MA",2,4315,4.5 km,8.3 km,2.9 km,4.0 km,42.3645487,-71.0687779
+"381 Congress Lofts | 381 Congress St, Boston, MA",Studio,3049,4.7 km,10.1 km,7.6 km,8.4 km,42.3497255,-71.04772620000001
+"381 Congress Lofts | 381 Congress St, Boston, MA",1,3399,4.7 km,10.1 km,7.6 km,8.4 km,42.3497255,-71.04772620000001
+"Royce Rd, 11 Royce Rd APT 4, Boston, MA 02134",Studio,1950,4.1 km,2.5 km,4.7 km,1.4 km,42.3490086,-71.1318131
+"740 E 7th St, 740 E 7th St APT 18, Boston, MA 02127",1,2450,5.3 km,11.5 km,12.2 km,13.0 km,42.332518,-71.030787
+"Flats on D | 411 D St, Boston, MA",Studio,2709,5.9 km,9.7 km,8.1 km,8.9 km,42.3446367,-71.0435978
+"Flats on D | 411 D St, Boston, MA",1,2976,5.9 km,9.7 km,8.1 km,8.9 km,42.3446367,-71.0435978
+"Flats on D | 411 D St, Boston, MA",2,3861,5.9 km,9.7 km,8.1 km,8.9 km,42.3446367,-71.0435978
+"VELKOR 245 NOMINEE TRUST, 245 Sumner St #104, Boston, MA 02128",2,3475,8.4 km,12.1 km,7.0 km,7.9 km,42.3679693,-71.0382673
+"Watermark Seaport | 85 Seaport Blvd, Boston, MA",Studio,2649,4.9 km,10.3 km,7.7 km,8.5 km,42.3516816,-71.0459501
+"Watermark Seaport | 85 Seaport Blvd, Boston, MA",1,3321,4.9 km,10.3 km,7.7 km,8.5 km,42.3516816,-71.0459501
+"Watermark Seaport | 85 Seaport Blvd, Boston, MA",2,4728,4.9 km,10.3 km,7.7 km,8.5 km,42.3516816,-71.0459501
+"Thread | 1580 River St, Hyde Park, MA",1,2550,14.9 km,16.4 km,16.7 km,14.3 km,42.2482179,-71.132042
+"Thread | 1580 River St, Hyde Park, MA",2,3050,14.9 km,16.4 km,16.7 km,14.3 km,42.2482179,-71.132042
+"The West End Apartments | 4 Emerson Pl, Boston, MA",Studio,2900,4.5 km,8.2 km,2.8 km,4.0 km,42.3642848,-71.06802929999999
+"The West End Apartments | 4 Emerson Pl, Boston, MA",1,3215,4.5 km,8.2 km,2.8 km,4.0 km,42.3642848,-71.06802929999999
+"The West End Apartments | 4 Emerson Pl, Boston, MA",2,4825,4.5 km,8.2 km,2.8 km,4.0 km,42.3642848,-71.06802929999999
+"Avenir | 101 Canal St, Boston, MA",Studio,2840,6.3 km,10.5 km,3.4 km,4.6 km,42.3650387,-71.0602864
+"Avenir | 101 Canal St, Boston, MA",1,3875,6.3 km,10.5 km,3.4 km,4.6 km,42.3650387,-71.0602864
+"Avenir | 101 Canal St, Boston, MA",2,4130,6.3 km,10.5 km,3.4 km,4.6 km,42.3650387,-71.0602864
+"38 Hemenway | 38 Hemenway St, Boston, MA",Studio,2350,1.2 km,5.8 km,2.6 km,1.2 km,42.3455277,-71.0892029
+"38 Hemenway | 38 Hemenway St, Boston, MA",1,2600,1.2 km,5.8 km,2.6 km,1.2 km,42.3455277,-71.0892029
+"38 Hemenway | 38 Hemenway St, Boston, MA",2,3400,1.2 km,5.8 km,2.6 km,1.2 km,42.3455277,-71.0892029
+"38 Hemenway | 38 Hemenway St, Boston, MA",3,4800,1.2 km,5.8 km,2.6 km,1.2 km,42.3455277,-71.0892029
+"455 E 1st St, 455 E 1st St #402, Boston, MA 02127",1,4000,4.3 km,10.7 km,8.4 km,9.2 km,42.3379144,-71.04193029999999
+"4, 8, 12 Elko Street, 4 Elko St #810, Brighton, MA 02135",3,3200,6.8 km,3.0 km,6.1 km,2.9 km,42.3497886,-71.1494369
+"Kilsyth Manor Apartments | 111 Kilsyth Rd, Brighton, MA",1,2395,5.1 km,4.0 km,6.5 km,3.2 km,42.3404994,-71.14627759999999
+"Kilsyth Manor Apartments | 111 Kilsyth Rd, Brighton, MA",2,3125,5.1 km,4.0 km,6.5 km,3.2 km,42.3404994,-71.14627759999999
+"Kilsyth Manor Apartments | 111 Kilsyth Rd, Brighton, MA",3,3595,5.1 km,4.0 km,6.5 km,3.2 km,42.3404994,-71.14627759999999
+"315 on A | 315 A St, Boston, MA",Studio,2905,4.9 km,10.1 km,6.0 km,6.8 km,42.34881070000001,-71.04854209999999
+"315 on A | 315 A St, Boston, MA",1,3445,4.9 km,10.1 km,6.0 km,6.8 km,42.34881070000001,-71.04854209999999
+"315 on A | 315 A St, Boston, MA",2,4845,4.9 km,10.1 km,6.0 km,6.8 km,42.34881070000001,-71.04854209999999
+"Bowdoin School Apartments | 45 Myrtle St, Boston, MA",1,3000,4.0 km,7.8 km,3.6 km,3.5 km,42.3593991,-71.0661841
+"Bowdoin School Apartments | 45 Myrtle St, Boston, MA",2,3540,4.0 km,7.8 km,3.6 km,3.5 km,42.3593991,-71.0661841
+"33-39 Maverick Square, 33 Maverick Sq #301, Boston, MA 02128",2,2800,8.2 km,11.9 km,6.8 km,7.6 km,42.3691783,-71.0389588
+"Ashford Street | 53-55 Ashford St, Allston, MA",2,2950,5.7 km,2.0 km,4.9 km,1.5 km,42.3542592,-71.1265933
+"Van Ness | 1335 Boylston St, Boston, MA",Studio,3668,1.2 km,6.1 km,2.9 km,1.2 km,42.34425479999999,-71.09967069999999
+"Van Ness | 1335 Boylston St, Boston, MA",1,4674,1.2 km,6.1 km,2.9 km,1.2 km,42.34425479999999,-71.09967069999999
+"Morton Village | 65 Morton Village Dr, Mattapan, MA",Studio,1371,7.9 km,19.8 km,17.7 km,10.6 km,42.278306,-71.0875448
+"Morton Village | 65 Morton Village Dr, Mattapan, MA",1,1449,7.9 km,19.8 km,17.7 km,10.6 km,42.278306,-71.0875448
+"Morton Village | 65 Morton Village Dr, Mattapan, MA",2,1729,7.9 km,19.8 km,17.7 km,10.6 km,42.278306,-71.0875448
+"1384 Commonwealth | 1384 Commonwealth Ave, Allston, MA",Studio,1950,4.6 km,3.0 km,5.0 km,1.8 km,42.3480102,-71.1373661
+"1384 Commonwealth | 1384 Commonwealth Ave, Allston, MA",1,2300,4.6 km,3.0 km,5.0 km,1.8 km,42.3480102,-71.1373661
+"1384 Commonwealth | 1384 Commonwealth Ave, Allston, MA",2,2650,4.6 km,3.0 km,5.0 km,1.8 km,42.3480102,-71.1373661
+"1212 Commonwealth ave | 1212 Commonwealth Ave, Allston, MA",1,1950,11.4 km,5.4 km,11.7 km,4.9 km,42.340154,-71.1656705
+"The Towers at Longfellow | 72 Staniford St, Boston, MA",Studio,2525,4.5 km,8.3 km,2.9 km,4.0 km,42.3631806,-71.06416829999999
+"The Towers at Longfellow | 72 Staniford St, Boston, MA",1,2950,4.5 km,8.3 km,2.9 km,4.0 km,42.3631806,-71.06416829999999
+"The Towers at Longfellow | 72 Staniford St, Boston, MA",2,4675,4.5 km,8.3 km,2.9 km,4.0 km,42.3631806,-71.06416829999999
+"The Towers at Longfellow | 72 Staniford St, Boston, MA",3,5575,4.5 km,8.3 km,2.9 km,4.0 km,42.3631806,-71.06416829999999
+"The Sudbury | 100 Sudbury St, Boston, MA",Studio,3495,6.5 km,10.6 km,3.8 km,5.2 km,42.3621181,-71.0593708
+"The Sudbury | 100 Sudbury St, Boston, MA",1,3860,6.5 km,10.6 km,3.8 km,5.2 km,42.3621181,-71.0593708
+"The Sudbury | 100 Sudbury St, Boston, MA",2,6520,6.5 km,10.6 km,3.8 km,5.2 km,42.3621181,-71.0593708
+"The Sudbury | 100 Sudbury St, Boston, MA",3,7485,6.5 km,10.6 km,3.8 km,5.2 km,42.3621181,-71.0593708
+"77-81 Park Drive | 77 Park Dr, Boston, MA",1,2800,1.0 km,6.3 km,4.2 km,1.7 km,42.3423899,-71.09572849999999
+"77-81 Park Drive | 77 Park Dr, Boston, MA",2,3800,1.0 km,6.3 km,4.2 km,1.7 km,42.3423899,-71.09572849999999
+"77-81 Park Drive | 77 Park Dr, Boston, MA",3,4400,1.0 km,6.3 km,4.2 km,1.7 km,42.3423899,-71.09572849999999
+"The Alyx | 131 Seaport Blvd, Boston, MA",Studio,3526,5.5 km,10.1 km,7.6 km,8.5 km,42.3498578,-71.0444247
+"The Alyx | 131 Seaport Blvd, Boston, MA",1,4413,5.5 km,10.1 km,7.6 km,8.5 km,42.3498578,-71.0444247
+"The Alyx | 131 Seaport Blvd, Boston, MA",2,5400,5.5 km,10.1 km,7.6 km,8.5 km,42.3498578,-71.0444247
+"The Alyx | 131 Seaport Blvd, Boston, MA",3,11748,5.5 km,10.1 km,7.6 km,8.5 km,42.3498578,-71.0444247
+"117 Park Drive | 117 Park Dr, Boston, MA",Studio,2400,1.3 km,3.7 km,4.1 km,1.6 km,42.3420764,-71.0972938
+"117 Park Drive | 117 Park Dr, Boston, MA",1,2800,1.3 km,3.7 km,4.1 km,1.6 km,42.3420764,-71.0972938
+"117 Park Drive | 117 Park Dr, Boston, MA",2,3850,1.3 km,3.7 km,4.1 km,1.6 km,42.3420764,-71.0972938
+"Mercantile Wharf, 111 Atlantic Ave APT 220, Boston, MA 02109",1,3425,5.4 km,9.6 km,3.8 km,4.9 km,42.3614634,-71.0526665
+"191-195 Park Drive | 191 Park Dr, Boston, MA",Studio,2300,1.3 km,3.4 km,3.8 km,1.3 km,42.341053,-71.0995685
+"191-195 Park Drive | 191 Park Dr, Boston, MA",1,2600,1.3 km,3.4 km,3.8 km,1.3 km,42.341053,-71.0995685
+"191-195 Park Drive | 191 Park Dr, Boston, MA",2,3199,1.3 km,3.4 km,3.8 km,1.3 km,42.341053,-71.0995685
+"39 & 41 Shepard Street | 39 Shepard St, Brighton, MA",1,2495,7.2 km,3.4 km,6.4 km,3.5 km,42.3465194,-71.15110109999999
+"39 & 41 Shepard Street | 39 Shepard St, Brighton, MA",2,2395,7.2 km,3.4 km,6.4 km,3.5 km,42.3465194,-71.15110109999999
+"Avalon Exeter | 77 Exeter St, Boston, MA",Studio,4195,1.8 km,6.7 km,3.4 km,2.4 km,42.348645,-71.0793489
+"Avalon Exeter | 77 Exeter St, Boston, MA",1,4807,1.8 km,6.7 km,3.4 km,2.4 km,42.348645,-71.0793489
+"Avalon Exeter | 77 Exeter St, Boston, MA",2,6645,1.8 km,6.7 km,3.4 km,2.4 km,42.348645,-71.0793489
+"Avalon Exeter | 77 Exeter St, Boston, MA",3,12575,1.8 km,6.7 km,3.4 km,2.4 km,42.348645,-71.0793489
+"32-40 Queensberry | 32 Queensberry St, Boston, MA",Studio,2300,0.7 km,6.3 km,3.2 km,2.1 km,42.3428386,-71.0963672
+"32-40 Queensberry | 32 Queensberry St, Boston, MA",1,2500,0.7 km,6.3 km,3.2 km,2.1 km,42.3428386,-71.0963672
+"32-40 Queensberry | 32 Queensberry St, Boston, MA",2,3400,0.7 km,6.3 km,3.2 km,2.1 km,42.3428386,-71.0963672
+"5 Royce | 5 Royce Rd, Allston, MA",Studio,2000,4.1 km,2.5 km,4.7 km,1.4 km,42.34912689999999,-71.1319123
+"5 Royce | 5 Royce Rd, Allston, MA",1,2400,4.1 km,2.5 km,4.7 km,1.4 km,42.34912689999999,-71.1319123
+"5 Royce | 5 Royce Rd, Allston, MA",2,2700,4.1 km,2.5 km,4.7 km,1.4 km,42.34912689999999,-71.1319123
+"VIA Seaport Residences | 5 Fan Pier Blvd, Boston, MA",Studio,2729,5.6 km,9.4 km,5.6 km,6.4 km,42.3528285,-71.04665279999999
+"VIA Seaport Residences | 5 Fan Pier Blvd, Boston, MA",1,3232,5.6 km,9.4 km,5.6 km,6.4 km,42.3528285,-71.04665279999999
+"VIA Seaport Residences | 5 Fan Pier Blvd, Boston, MA",2,5778,5.6 km,9.4 km,5.6 km,6.4 km,42.3528285,-71.04665279999999
+"VIA Seaport Residences | 5 Fan Pier Blvd, Boston, MA",3,7094,5.6 km,9.4 km,5.6 km,6.4 km,42.3528285,-71.04665279999999
+"Stony Brook Commons | 390 Blue Ledge Dr, Roslindale, MA",Studio,1543,11.0 km,12.4 km,12.8 km,10.3 km,42.27387359999999,-71.1397688
+"Stony Brook Commons | 390 Blue Ledge Dr, Roslindale, MA",1,2684,11.0 km,12.4 km,12.8 km,10.3 km,42.27387359999999,-71.1397688
+"Stony Brook Commons | 390 Blue Ledge Dr, Roslindale, MA",2,2641,11.0 km,12.4 km,12.8 km,10.3 km,42.27387359999999,-71.1397688
+"Stony Brook Commons | 390 Blue Ledge Dr, Roslindale, MA",3,3251,11.0 km,12.4 km,12.8 km,10.3 km,42.27387359999999,-71.1397688
+"11 Parker Hill | 11 Parker Hill Ave, Roxbury Crossing, MA",1,2600,1.6 km,4.7 km,5.1 km,2.6 km,42.3326493,-71.1099671
+"11 Parker Hill | 11 Parker Hill Ave, Roxbury Crossing, MA",2,3600,1.6 km,4.7 km,5.1 km,2.6 km,42.3326493,-71.1099671
+"1940 Commonwealth | 1940 Commonwealth Ave, Brighton, MA",Studio,2000,6.2 km,4.7 km,7.2 km,3.9 km,42.3385664,-71.15569649999999
+"1940 Commonwealth | 1940 Commonwealth Ave, Brighton, MA",1,2250,6.2 km,4.7 km,7.2 km,3.9 km,42.3385664,-71.15569649999999
+"1940 Commonwealth | 1940 Commonwealth Ave, Brighton, MA",2,2500,6.2 km,4.7 km,7.2 km,3.9 km,42.3385664,-71.15569649999999
+"The Lofts at Atlantic Wharf | 530 Atlantic Ave, Boston, MA",1,5350,4.6 km,8.8 km,5.2 km,6.1 km,42.3536878,-71.05301039999999
+"85 Strathmore | 85 Strathmore Rd, Brighton, MA",Studio,1900,5.4 km,4.2 km,6.7 km,3.4 km,42.3389477,-71.1497739
+"85 Strathmore | 85 Strathmore Rd, Brighton, MA",1,2200,5.4 km,4.2 km,6.7 km,3.4 km,42.3389477,-71.1497739
+"85 Strathmore | 85 Strathmore Rd, Brighton, MA",2,2500,5.4 km,4.2 km,6.7 km,3.4 km,42.3389477,-71.1497739
+"Gardner St, 34 | 34 Gardner St, Boston, MA",Studio,1975,5.8 km,2.1 km,5.0 km,1.6 km,42.3537785,-71.1299588
+"Gardner St, 34 | 34 Gardner St, Boston, MA",2,2400,5.8 km,2.1 km,5.0 km,1.6 km,42.3537785,-71.1299588
+"Brighton Avenue Apartments, 19-25 | 19-25 Brighton Ave, Allston, MA",1,1900,4.9 km,2.5 km,4.8 km,1.5 km,42.3520115,-71.125331
+"Parklake, 1970 Commonwealth Ave #1980-32, Brighton, MA 02135",1,2100,6.3 km,4.8 km,7.3 km,4.0 km,42.3390375,-71.1568674
+"741-745 | 741-745 E 6th St, Boston, MA",2,3000,5.4 km,11.4 km,9.9 km,11.4 km,42.3329493,-71.03095929999999
+"741-745 | 741-745 E 6th St, Boston, MA",3,3700,5.4 km,11.4 km,9.9 km,11.4 km,42.3329493,-71.03095929999999
+"95-97 Endicott, 95 Endicott St, Boston, MA 02113",3,3600,6.3 km,10.4 km,3.6 km,5.0 km,42.36425149999999,-71.05712720000001
+"11 Woodside Ave #3A, Jamaica Plain, MA 02130",3,3100,3.5 km,10.2 km,8.2 km,5.8 km,42.3097138,-71.1035605
+"9-11 Moraine St #2, Boston, MA 02130",3,4300,3.4 km,6.2 km,6.6 km,4.1 km,42.319946,-71.112433
+"200 Highland St, Roxbury, MA",3,3300,2.1 km,8.8 km,5.7 km,4.4 km,42.3230405,-71.09373049999999
+"345 Commonwealth Ave, Boston, MA",2,3400,1.2 km,5.5 km,1.8 km,0.8 km,42.3497124,-71.0880687
+"124 Marine Rd APT 1, South Boston, MA 02127",2,3400,4.7 km,11.4 km,11.8 km,12.6 km,42.33081120000001,-71.034144
+"49 Leyden St #1, East Boston, MA 02128",2,3300,10.7 km,15.8 km,9.4 km,10.2 km,42.39002989999999,-71.0106188
+"393 W Broadway, Boston, MA",1,2550,4.3 km,9.9 km,7.8 km,8.6 km,42.337197,-71.0489178
+"393 W Broadway, Boston, MA",2,3200,4.3 km,9.9 km,7.8 km,8.6 km,42.337197,-71.0489178
+"5 Oswald St, Boston, MA",3,4650,1.5 km,7.9 km,4.7 km,2.9 km,42.3314307,-71.1043207
+"724 Parker St, Boston, MA",4,6800,1.4 km,7.8 km,4.7 km,3.2 km,42.3308878,-71.0973736
+"724 Parker St, Boston, MA",5,8000,1.4 km,7.8 km,4.7 km,3.2 km,42.3308878,-71.0973736
+"13 Sachem St, Mission Hill, MA",4,7600,1.6 km,7.9 km,4.8 km,2.9 km,42.3314261,-71.10518569999999
+"13 Sachem St, Mission Hill, MA",6,11400,1.6 km,7.9 km,4.8 km,2.9 km,42.3314261,-71.10518569999999
+"8 Sunset St, Roxbury Crossing, MA",4,7600,1.7 km,8.0 km,5.4 km,3.0 km,42.3313276,-71.1086084
+"8 Sunset St, Roxbury Crossing, MA",5,8750,1.7 km,8.0 km,5.4 km,3.0 km,42.3313276,-71.1086084
+"719 Parker St, Roxbury, MA",3,4500,1.5 km,7.9 km,4.7 km,3.3 km,42.33135410000001,-71.0974621
+"719 Parker St, Roxbury, MA",4,6000,1.5 km,7.9 km,4.7 km,3.3 km,42.33135410000001,-71.0974621
+"830-3 Huntington Ave, Boston, MA",3,4200,1.6 km,4.7 km,5.1 km,2.6 km,42.3330506,-71.10927079999999
+"830-3 Huntington Ave, Boston, MA",4,5500,1.6 km,4.7 km,5.1 km,2.6 km,42.3330506,-71.10927079999999
+"1778 Commonwealth Ave, Brighton, MA",6,9300,5.7 km,4.2 km,6.7 km,3.5 km,42.3403334,-71.1505245
+"1778 Commonwealth Ave, Brighton, MA",8,12000,5.7 km,4.2 km,6.7 km,3.5 km,42.3403334,-71.1505245
+"16 Sewall St, Boston, MA",4,7400,1.0 km,7.4 km,4.3 km,2.8 km,42.3315385,-71.0978749
+"13-19 Stanhope St, Boston, MA",1,5495,2.0 km,7.5 km,3.7 km,2.6 km,42.3487286,-71.0727368
+"13-19 Stanhope St, Boston, MA",2,6725,2.0 km,7.5 km,3.7 km,2.6 km,42.3487286,-71.0727368
+"68 Calumet St, Roxbury Crossing, MA",3,5700,1.4 km,7.8 km,4.6 km,2.8 km,42.3320028,-71.10421079999999
+"68 Calumet St, Roxbury Crossing, MA",4,7200,1.4 km,7.8 km,4.6 km,2.8 km,42.3320028,-71.10421079999999
+"4 Farrington Ave, Allston, MA",3,3750,5.4 km,1.8 km,4.7 km,1.4 km,42.3543892,-71.1319865
+"4 Farrington Ave, Allston, MA",5,6750,5.4 km,1.8 km,4.7 km,1.4 km,42.3543892,-71.1319865
+"78 Hillside St APT 3, Boston, MA 02120",4,6200,1.4 km,7.7 km,4.6 km,2.7 km,42.3303005,-71.1027079
+"160-162 E Berkeley St, Boston, MA",1,4100,2.7 km,7.7 km,7.0 km,3.6 km,42.3437371,-71.06468459999999
+"160-162 E Berkeley St, Boston, MA",3,5400,2.7 km,7.7 km,7.0 km,3.6 km,42.3437371,-71.06468459999999
+"39 Hemenway St APT 1, Boston, MA 02115",4,8000,1.2 km,5.8 km,2.6 km,1.2 km,42.34555049999999,-71.08973689999999
+"10 Carmel St, Roxbury Crossing, MA",3,4800,1.3 km,7.8 km,4.6 km,2.7 km,42.33189549999999,-71.10016089999999
+"10 Carmel St, Roxbury Crossing, MA",4,7600,1.3 km,7.8 km,4.6 km,2.7 km,42.33189549999999,-71.10016089999999
+"419 Hanover St, Boston, MA",2,3200,7.0 km,11.1 km,5.2 km,5.5 km,42.3656427,-71.0526786
+"16-18 Highgate St, Allston, MA",1,2450,5.5 km,1.8 km,4.7 km,1.4 km,42.3553824,-71.1315991
+"16-18 Highgate St, Allston, MA",2,3200,5.5 km,1.8 km,4.7 km,1.4 km,42.3553824,-71.1315991
+"16-18 Highgate St, Allston, MA",4,5295,5.5 km,1.8 km,4.7 km,1.4 km,42.3553824,-71.1315991
+"16-18 Highgate St, Allston, MA",5,6825,5.5 km,1.8 km,4.7 km,1.4 km,42.3553824,-71.1315991
+"55 Leo M Birmingham Pkwy, Brighton, MA",2,4400,9.9 km,2.5 km,6.0 km,3.1 km,42.3600303,-71.14746
+"235 Park Dr, Boston, MA",1,2475,1.6 km,3.2 km,3.6 km,1.1 km,42.3423697,-71.10119329999999
+"235 Park Dr, Boston, MA",2,2950,1.6 km,3.2 km,3.6 km,1.1 km,42.3423697,-71.10119329999999
+"99 Salem St #2, Boston, MA 02113",2,3200,6.4 km,10.6 km,3.8 km,5.2 km,42.3639144,-71.0555267
+"34 Raymond St, Allston, MA",5,5000,6.2 km,0.7 km,4.8 km,3.5 km,42.3617587,-71.13373399999999
+"36 Cherokee St, Roxbury Crossing, MA",4,6400,1.6 km,7.9 km,4.7 km,2.9 km,42.330597,-71.1013274
+"36 Cherokee St, Roxbury Crossing, MA",5,6250,1.6 km,7.9 km,4.7 km,2.9 km,42.330597,-71.1013274
+"19 Parker Hill Ave, Boston, MA",4,7600,1.7 km,4.8 km,5.1 km,2.7 km,42.33232539999999,-71.1097652
+"19 Parker Hill Ave, Boston, MA",6,11100,1.7 km,4.8 km,5.1 km,2.7 km,42.33232539999999,-71.1097652
+"298 Commonwealth Ave APT 202, Boston, MA 02115",1,3300,1.5 km,5.8 km,2.2 km,1.1 km,42.3495371,-71.0851196
+"6 Bellvista Rd, Brighton, MA",2,2500,4.6 km,3.1 km,5.3 km,2.0 km,42.3466431,-71.13840309999999
+"50 Leo M Birmingham Pkwy, Brighton, MA",1,3575,8.0 km,1.8 km,8.1 km,6.5 km,42.36003290000001,-71.1464994
+"50 Leo M Birmingham Pkwy, Brighton, MA",2,4200,8.0 km,1.8 km,8.1 km,6.5 km,42.36003290000001,-71.1464994
+"84-86 Linden St, Allston, MA",2,5450,5.6 km,1.9 km,4.8 km,1.1 km,42.3520048,-71.130136
+"84-86 Linden St, Allston, MA",3,5100,5.6 km,1.9 km,4.8 km,1.1 km,42.3520048,-71.130136
+"84-86 Linden St, Allston, MA",4,5300,5.6 km,1.9 km,4.8 km,1.1 km,42.3520048,-71.130136
+"655 Chiswick Rd, Brighton, MA",1,2950,6.2 km,4.1 km,7.2 km,3.9 km,42.3407134,-71.1531817
+"655 Chiswick Rd, Brighton, MA",2,3600,6.2 km,4.1 km,7.2 km,3.9 km,42.3407134,-71.1531817
+"44 Hillside St, Roxbury Crossing, MA",4,7600,1.5 km,7.9 km,4.7 km,2.9 km,42.3298906,-71.10106859999999
+"44 Hillside St, Roxbury Crossing, MA",5,9500,1.5 km,7.9 km,4.7 km,2.9 km,42.3298906,-71.10106859999999
+"64 N Margin St, Boston, MA",2,4200,6.4 km,10.5 km,3.7 km,5.1 km,42.36497869999999,-71.0568821
+"88 W Cedar St, Boston, MA",1,2800,4.5 km,8.2 km,2.8 km,3.9 km,42.3603987,-71.07020949999999
+"88 W Cedar St, Boston, MA",2,3500,4.5 km,8.2 km,2.8 km,3.9 km,42.3603987,-71.07020949999999
+"731 Parker St, Roxbury, MA",4,6800,1.5 km,7.9 km,4.7 km,3.2 km,42.3311413,-71.0976273
+"168-2 Endicott St, Boston, MA",1,2300,6.4 km,10.6 km,4.7 km,4.9 km,42.3656253,-71.0575429
+"168-2 Endicott St, Boston, MA",2,3400,6.4 km,10.6 km,4.7 km,4.9 km,42.3656253,-71.0575429
+"168-2 Endicott St, Boston, MA",3,4500,6.4 km,10.6 km,4.7 km,4.9 km,42.3656253,-71.0575429
+"185 Hillside St, Mission Hill, MA 02120",5,8000,1.6 km,8.0 km,5.4 km,2.9 km,42.3319126,-71.1082156
+"89 Hillside St, Mission Hill, MA",3,4700,1.4 km,7.7 km,4.6 km,2.7 km,42.330808,-71.1034858
+"279 Lamartine St, Jamaica Plain, MA",4,5800,3.2 km,7.4 km,7.8 km,5.3 km,42.3136047,-71.10744609999999
+"85 E India Row, Boston, MA",1,3250,5.2 km,9.3 km,4.0 km,6.9 km,42.3581149,-71.0497992
+"85 E India Row, Boston, MA",2,4400,5.2 km,9.3 km,4.0 km,6.9 km,42.3581149,-71.0497992
+"85 E India Row, Boston, MA",3,6500,5.2 km,9.3 km,4.0 km,6.9 km,42.3581149,-71.0497992
+"21 Cleveland Pl, Boston, MA",3,3200,6.9 km,11.1 km,4.0 km,5.6 km,42.3662491,-71.0561723
+"202 Corey Rd, Brighton, MA",2,2950,4.6 km,3.5 km,5.5 km,2.2 km,42.3438562,-71.13893329999999
+"1566 Tremont St, Boston, MA",3,5700,1.1 km,7.4 km,4.3 km,2.4 km,42.3330062,-71.1019132
+"1566 Tremont St, Boston, MA",4,7400,1.1 km,7.4 km,4.3 km,2.4 km,42.3330062,-71.1019132
+"245 Kelton St, Allston, MA",2,2735,4.2 km,3.1 km,5.2 km,1.9 km,42.3462298,-71.1361908
+"128 Roxbury St, Boston, MA 02119",5,8000,1.4 km,8.1 km,5.0 km,3.5 km,42.3302905,-71.0884662
+"47 Hillside St, Mission Hill, MA",3,5700,1.5 km,7.9 km,4.7 km,2.9 km,42.3301653,-71.1008349
+"47 Hillside St, Mission Hill, MA",4,7600,1.5 km,7.9 km,4.7 km,2.9 km,42.3301653,-71.1008349
+"47 Hillside St, Mission Hill, MA",5,9000,1.5 km,7.9 km,4.7 km,2.9 km,42.3301653,-71.1008349
+"207 Hillside St, Mission Hill, MA",3,4200,1.7 km,8.1 km,5.4 km,3.0 km,42.33223900000001,-71.1090851
+"286 Foster St, Brighton, MA",4,6200,11.2 km,5.2 km,7.6 km,4.4 km,42.34077620000001,-71.159105
+"286 Foster St, Brighton, MA",5,7200,11.2 km,5.2 km,7.6 km,4.4 km,42.34077620000001,-71.159105
+"64 N Margin St, Boston, MA",2,3850,6.4 km,10.5 km,3.7 km,5.1 km,42.36497869999999,-71.0568821
+"48 Englewood Ave, Brighton, MA",4,5200,5.1 km,4.3 km,6.5 km,3.6 km,42.3379044,-71.1471382
+"395 W Broadway, Boston, MA",2,3600,4.4 km,9.9 km,7.8 km,8.7 km,42.3372749,-71.0486635
+"395 W Broadway, Boston, MA",3,4400,4.4 km,9.9 km,7.8 km,8.7 km,42.3372749,-71.0486635
+"(undisclosed Address), Brighton, MA 02135",2,4795,10.6 km,4.6 km,10.9 km,4.1 km,42.3463503,-71.1626756
+"67-69 Chiswick Rd, Brighton, MA",Studio,2500,5.8 km,4.3 km,6.8 km,3.5 km,42.3397272,-71.14977209999999
+"67-69 Chiswick Rd, Brighton, MA",1,2050,5.8 km,4.3 km,6.8 km,3.5 km,42.3397272,-71.14977209999999
+"67-69 Chiswick Rd, Brighton, MA",2,2650,5.8 km,4.3 km,6.8 km,3.5 km,42.3397272,-71.14977209999999
+"67-69 Chiswick Rd, Brighton, MA",3,3750,5.8 km,4.3 km,6.8 km,3.5 km,42.3397272,-71.14977209999999
+"17 Highgate St, Boston, MA",4,4640,5.5 km,1.8 km,4.7 km,1.4 km,42.3551679,-71.13197819999999
+"782 Morton St, Mattapan, MA",3,3300,7.0 km,19.8 km,17.8 km,9.7 km,42.2828559,-71.0885291
+"42-44 N Beacon St, Allston, MA",3,4500,8.1 km,1.9 km,5.1 km,1.8 km,42.3537686,-71.1397673
+"42-44 N Beacon St, Allston, MA",4,5500,8.1 km,1.9 km,5.1 km,1.8 km,42.3537686,-71.1397673
+"50 Leo M Birmingham Pkwy, Brighton, MA",Studio,3325,8.0 km,1.8 km,8.1 km,6.5 km,42.36003290000001,-71.1464994
+"50 Leo M Birmingham Pkwy, Brighton, MA",1,3450,8.0 km,1.8 km,8.1 km,6.5 km,42.36003290000001,-71.1464994
+"50 Leo M Birmingham Pkwy, Brighton, MA",2,3800,8.0 km,1.8 km,8.1 km,6.5 km,42.36003290000001,-71.1464994
+"500 Leo M Birmingham Pkwy, Brighton, MA",Studio,3550,9.0 km,3.0 km,9.1 km,7.5 km,42.3584024,-71.1574337
+"500 Leo M Birmingham Pkwy, Brighton, MA",1,3540,9.0 km,3.0 km,9.1 km,7.5 km,42.3584024,-71.1574337
+"500 Leo M Birmingham Pkwy, Brighton, MA",2,4450,9.0 km,3.0 km,9.1 km,7.5 km,42.3584024,-71.1574337
+"28 Raymond St, Allston, MA",5,5500,6.3 km,0.8 km,4.8 km,3.5 km,42.3617466,-71.13421009999999
+"18 Gerald Rd #1, Brighton, MA 02135",6,11200,11.3 km,5.3 km,7.7 km,4.5 km,42.3408875,-71.16040920000002
+"14-15 Mount Hood Rd, Brighton, MA",1,3595,4.8 km,3.8 km,5.9 km,2.6 km,42.3416606,-71.1421826
+"14-15 Mount Hood Rd, Brighton, MA",2,3795,4.8 km,3.8 km,5.9 km,2.6 km,42.3416606,-71.1421826
+"14-15 Mount Hood Rd, Brighton, MA",3,4875,4.8 km,3.8 km,5.9 km,2.6 km,42.3416606,-71.1421826
+"14-15 Mount Hood Rd, Brighton, MA",4,4500,4.8 km,3.8 km,5.9 km,2.6 km,42.3416606,-71.1421826
+"1171-1173 Boylston St, Boston, MA",Studio,2245,1.3 km,6.5 km,3.3 km,1.2 km,42.3468114,-71.0936675
+"1171-1173 Boylston St, Boston, MA",1,2595,1.3 km,6.5 km,3.3 km,1.2 km,42.3468114,-71.0936675
+"196 Kelton St, Allston, MA",4,4400,4.4 km,3.0 km,5.1 km,1.8 km,42.3474397,-71.1375083
+"(undisclosed Address), Brighton, MA 02135",3,3775,10.6 km,4.6 km,10.9 km,4.1 km,42.3463503,-71.1626756
+"1 Fairfield Pl, Boston, MA",2,3500,7.3 km,11.4 km,5.5 km,5.8 km,42.365629,-71.052499
+"4 Garden Court St, Boston, MA",1,2375,7.4 km,10.1 km,5.7 km,5.9 km,42.3642064,-71.0531929
+"48 Ashford St, Boston, MA",6,7800,5.6 km,2.0 km,4.9 km,1.5 km,42.354674,-71.12660129999999
+"48 Ashford St, Boston, MA",7,9500,5.6 km,2.0 km,4.9 km,1.5 km,42.354674,-71.12660129999999
+"2 Lamson Ct #1B, Boston, MA 02128",4,5500,8.7 km,12.5 km,7.4 km,8.2 km,42.3662152,-71.0329131
+"26 Ashford St, Boston, MA",2,4575,5.5 km,1.8 km,4.7 km,1.3 km,42.3546222,-71.12824590000001
+"26 Ashford St, Boston, MA",4,4000,5.5 km,1.8 km,4.7 km,1.3 km,42.3546222,-71.12824590000001
+"18-20 Haviland St, Boston, MA",Studio,2737,1.2 km,5.8 km,2.6 km,1.1 km,42.3462149,-71.08835719999999
+"18-20 Haviland St, Boston, MA",2,4315,1.2 km,5.8 km,2.6 km,1.1 km,42.3462149,-71.08835719999999
+"2 Islington St, Allston, MA",4,5000,5.9 km,2.3 km,5.2 km,1.6 km,42.3531194,-71.1366093
+"2 Ayr Rd, Brighton, MA",1,2550,5.3 km,5.0 km,6.7 km,4.3 km,42.3371171,-71.1486879
+"80 Wallingford Rd, Boston, MA",4,4200,6.1 km,3.7 km,6.8 km,3.8 km,42.3440774,-71.1522988
+"122 Peterborough St, Boston, MA",Studio,2250,1.7 km,3.3 km,3.7 km,1.2 km,42.3427187,-71.1002927
+"(undisclosed Address), Boston, MA 02215",2,3595,3.8 km,8.7 km,5.5 km,4.4 km,42.3476181,-71.1002881
+"12A Gerald Rd, Brighton, MA",3,3500,11.3 km,5.4 km,7.7 km,4.5 km,42.340638,-71.1605333
+"12A Gerald Rd, Brighton, MA",5,9000,11.3 km,5.4 km,7.7 km,4.5 km,42.340638,-71.1605333
+"190 Green St, Boston, MA 02130",1,2695,3.7 km,7.7 km,8.0 km,5.6 km,42.309969,-71.1054201
+"16 Temple St, Boston, MA",2,3800,4.3 km,8.1 km,2.7 km,3.8 km,42.3608899,-71.0635254
+"205 Hillside St, Boston, MA",2,3000,1.7 km,8.0 km,5.4 km,3.0 km,42.3324128,-71.1088837
+"205 Hillside St, Boston, MA",3,4200,1.7 km,8.0 km,5.4 km,3.0 km,42.3324128,-71.1088837
+"1742 Washington St, Boston, MA",2,3595,1.2 km,7.0 km,3.6 km,2.5 km,42.3366576,-71.07643879999999
+"17 Garrison St, Boston, MA",1,2600,1.6 km,6.8 km,2.9 km,1.9 km,42.3458939,-71.0798382
+"353 Dorchester St, Boston, MA",2,3500,2.9 km,10.8 km,8.7 km,9.5 km,42.3306722,-71.05522359999999
+"(undisclosed Address), Allston, MA 02134",Studio,2185,4.9 km,1.3 km,4.1 km,2.8 km,42.3593008,-71.1270268
+"407-409 Washington St, Boston, MA",2,3750,4.1 km,7.9 km,4.3 km,3.6 km,42.3560243,-71.0602463
+"407-409 Washington St, Boston, MA",3,4750,4.1 km,7.9 km,4.3 km,3.6 km,42.3560243,-71.0602463
+"47 Englewood Ave, Brighton, MA",2,3200,5.1 km,4.3 km,6.5 km,3.6 km,42.3382398,-71.1470452
+"41 Hobson St #2, Brighton, MA 02135",5,4800,9.7 km,3.8 km,9.8 km,4.1 km,42.3541196,-71.1617887
+"55 Park Dr, Boston, MA",Studio,2395,1.1 km,6.4 km,4.3 km,1.9 km,42.3430297,-71.0951509
+"55 Park Dr, Boston, MA",3,4295,1.1 km,6.4 km,4.3 km,1.9 km,42.3430297,-71.0951509
+"41 Grove St #3A, Boston, MA 02114",2,3800,4.4 km,8.2 km,2.8 km,3.9 km,42.3597853,-71.06884690000001
+"104 Warren St, Brighton, MA",2,3475,6.9 km,2.6 km,6.2 km,2.1 km,42.3495334,-71.14169079999999
+"477 Englewood Ave, Brighton, MA",1,3950,5.3 km,4.3 km,6.7 km,3.6 km,42.3379271,-71.1486498
+"477 Englewood Ave, Brighton, MA",2,3450,5.3 km,4.3 km,6.7 km,3.6 km,42.3379271,-71.1486498
+"61 Selkirk Rd, Boston, MA",1,2470,5.9 km,4.3 km,6.9 km,3.6 km,42.3395835,-71.1495261
+"61 Selkirk Rd, Boston, MA",2,2780,5.9 km,4.3 km,6.9 km,3.6 km,42.3395835,-71.1495261
+"(undisclosed Address), Allston, MA 02134",5,6200,4.9 km,1.3 km,4.1 km,2.8 km,42.3593008,-71.1270268
+"9 Radnor Rd, Brighton, MA",4,4800,11.2 km,5.3 km,7.5 km,4.3 km,42.3404976,-71.1587444
+"43 Bennett St #2, Brighton, MA 02135",5,5000,9.8 km,3.9 km,9.9 km,3.3 km,42.35185389999999,-71.15514859999999
+"130 Glenville Ave #1A, Allston, MA 02134",3,3300,6.4 km,2.7 km,5.6 km,1.9 km,42.349031,-71.1370482
+"61-65 Brookline Ave, Boston, MA",Studio,2250,1.8 km,3.0 km,3.4 km,0.9 km,42.347204,-71.0991449
+"(undisclosed Address), Allston, MA 02134",4,6250,4.9 km,1.3 km,4.1 km,2.8 km,42.3593008,-71.1270268
+"7 S Waverly St, Brighton, MA",3,3100,6.2 km,1.9 km,5.4 km,3.0 km,42.3587208,-71.1422615
+"147 Kelton St, Allston, MA",2,3100,4.6 km,2.8 km,5.3 km,2.0 km,42.348115,-71.13964829999999
+"40 Brackett St, Brighton, MA",3,3300,12.6 km,4.7 km,10.3 km,4.7 km,42.3514849,-71.1654178
+"43 Orkney Rd, Brighton, MA",3,4000,5.4 km,5.1 km,6.8 km,4.3 km,42.3370212,-71.1497673
+"43 Orkney Rd, Brighton, MA",4,4400,5.4 km,5.1 km,6.8 km,4.3 km,42.3370212,-71.1497673
+"122 Elko St, Brighton, MA",Studio,2790,6.8 km,3.0 km,6.0 km,2.8 km,42.3502711,-71.1495822
+"122 Elko St, Brighton, MA",1,3150,6.8 km,3.0 km,6.0 km,2.8 km,42.3502711,-71.1495822
+"5 Spofford Rd, Allston, MA",2,3000,6.5 km,2.9 km,5.7 km,2.2 km,42.3501394,-71.1331993
+"452A Park Dr, Boston, MA",3,4499,1.5 km,3.5 km,3.9 km,1.4 km,42.3454513,-71.1049486
+"(undisclosed Address), Allston, MA 02134",3,5525,4.9 km,1.3 km,4.1 km,2.8 km,42.3593008,-71.1270268
+"130 Newton St, Brighton, MA",3,3300,10.0 km,4.0 km,10.1 km,8.5 km,42.3558855,-71.1682419
+"127-131 Sutherland Rd, Brighton, MA",1,2695,5.4 km,3.9 km,6.4 km,3.2 km,42.34028199999999,-71.1477087
+"127-131 Sutherland Rd, Brighton, MA",2,2725,5.4 km,3.9 km,6.4 km,3.2 km,42.34028199999999,-71.1477087
+"127-131 Sutherland Rd, Brighton, MA",5,6000,5.4 km,3.9 km,6.4 km,3.2 km,42.34028199999999,-71.1477087
+"(undisclosed Address), Brighton, MA 02135",1,2425,10.6 km,4.6 km,10.9 km,4.1 km,42.3463503,-71.1626756
+"10-20 Pratt St, Allston, MA",5,6400,5.3 km,1.6 km,4.5 km,1.7 km,42.3550082,-71.1298528
+"10-20 Pratt St, Allston, MA",6,6500,5.3 km,1.6 km,4.5 km,1.7 km,42.3550082,-71.1298528
+"(undisclosed Address), Allston, MA 02134",5,5500,4.9 km,1.3 km,4.1 km,2.8 km,42.3593008,-71.1270268
+"64 Brooks St, Brighton, MA",3,3100,9.5 km,3.6 km,9.6 km,8.0 km,42.3553565,-71.1623865
+"35 Falkland St #1, Brighton, MA 02135",3,3300,9.4 km,3.5 km,9.5 km,3.8 km,42.3553761,-71.1584434
+"6 Harvard Ter #1, Allston, MA 02134",3,4200,5.4 km,1.8 km,4.7 km,1.3 km,42.3538671,-71.1328296
+"155 Euston Rd #14, Brighton, MA 02135",Studio,2575,5.0 km,3.8 km,6.1 km,2.8 km,42.3444583,-71.1447381
+"10-20 Farrington Ave, Allston, MA",Studio,2360,5.4 km,1.8 km,4.6 km,1.4 km,42.3543908,-71.13218290000002
+"10-20 Farrington Ave, Allston, MA",1,2700,5.4 km,1.8 km,4.6 km,1.4 km,42.3543908,-71.13218290000002
+"10-20 Farrington Ave, Allston, MA",3,4095,5.4 km,1.8 km,4.6 km,1.4 km,42.3543908,-71.13218290000002
+"10-20 Farrington Ave, Allston, MA",5,5900,5.4 km,1.8 km,4.6 km,1.4 km,42.3543908,-71.13218290000002
+"107 Columbia Rd, Dorchester, MA",3,3400,4.1 km,15.0 km,12.9 km,7.2 km,42.3050693,-71.0805489
+"231 Park Dr, Boston, MA",Studio,2300,1.6 km,3.2 km,3.6 km,1.1 km,42.3422708,-71.1013442
+"231 Park Dr, Boston, MA",1,2625,1.6 km,3.2 km,3.6 km,1.1 km,42.3422708,-71.1013442
+"231 Park Dr, Boston, MA",2,3100,1.6 km,3.2 km,3.6 km,1.1 km,42.3422708,-71.1013442
+"20 Murdock St #2, Brighton, MA 02135",5,5200,6.7 km,2.9 km,5.9 km,2.7 km,42.35076290000001,-71.1480294
+"181 Beacon St, Boston, MA",1,3000,3.1 km,6.9 km,2.8 km,1.8 km,42.3542463,-71.0759733
+"26 Pratt St #1, Allston, MA 02134",4,5000,5.4 km,1.7 km,4.6 km,1.6 km,42.3551992,-71.1287873
+"10 Arlington St #1, Brighton, MA 02135",5,4700,9.9 km,3.9 km,6.2 km,3.0 km,42.3517857,-71.1523899
+"62 Gordon St, Boston, MA",2,4075,6.1 km,2.3 km,5.4 km,2.1 km,42.350736,-71.1398944
+"62 Gordon St, Boston, MA",3,5195,6.1 km,2.3 km,5.4 km,2.1 km,42.350736,-71.1398944
+"22 Sparhawk St #2, Brighton, MA 02135",5,5250,6.9 km,3.1 km,6.1 km,2.9 km,42.3510464,-71.15086269999999
+"1522 Commonwealth Ave #2, Brighton, MA 02135",4,4700,5.0 km,3.1 km,5.6 km,2.3 km,42.3454523,-71.1411919
+"50 Brooks St #2, Brighton, MA 02135",3,3200,9.4 km,3.5 km,9.5 km,7.9 km,42.3558449,-71.1621773
+"89-93 Westland Ave, Boston, MA",Studio,2400,0.1 km,5.9 km,2.7 km,1.2 km,42.3442067,-71.089372
+"89-93 Westland Ave, Boston, MA",1,3300,0.1 km,5.9 km,2.7 km,1.2 km,42.3442067,-71.089372
+"89-93 Westland Ave, Boston, MA",2,3400,0.1 km,5.9 km,2.7 km,1.2 km,42.3442067,-71.089372
+"89-93 Westland Ave, Boston, MA",3,5100,0.1 km,5.9 km,2.7 km,1.2 km,42.3442067,-71.089372
+"23 Claymoss Rd, Boston, MA",3,3300,5.6 km,4.3 km,7.3 km,3.3 km,42.3440743,-71.1447472
+"191 Porter St, Boston, MA",Studio,2400,8.0 km,11.7 km,6.6 km,7.5 km,42.3708262,-71.0324531
+"191 Porter St, Boston, MA",1,2450,8.0 km,11.7 km,6.6 km,7.5 km,42.3708262,-71.0324531
+"191 Porter St, Boston, MA",2,3550,8.0 km,11.7 km,6.6 km,7.5 km,42.3708262,-71.0324531
+"(undisclosed Address), Brighton, MA 02135",1,2750,10.6 km,4.6 km,10.9 km,4.1 km,42.3463503,-71.1626756
+"91 Parsons St #1, Brighton, MA 02135",5,5000,9.6 km,3.6 km,9.7 km,3.4 km,42.353527,-71.1539435
+"88 Wallingford Rd, Brighton, MA",2,2500,6.1 km,3.7 km,6.7 km,3.8 km,42.3441736,-71.15268110000001
+"88 Wallingford Rd, Brighton, MA",4,4200,6.1 km,3.7 km,6.7 km,3.8 km,42.3441736,-71.15268110000001
+"26 Easton St #3, Allston, MA 02134",Studio,3100,5.5 km,0.9 km,4.7 km,3.4 km,42.360017,-71.1301158
+"229 Chestnut Hill Ave #1, Brighton, MA 02135",4,5800,6.6 km,5.7 km,7.6 km,4.3 km,42.3399162,-71.15564719999999
+"658 Massachusetts Ave, Boston, MA",Studio,2900,1.2 km,7.0 km,3.6 km,2.6 km,42.3362126,-71.07625190000002
+"658 Massachusetts Ave, Boston, MA",2,3900,1.2 km,7.0 km,3.6 km,2.6 km,42.3362126,-71.07625190000002
+"21 Ransom Rd #2, Brighton, MA 02135",4,4500,5.4 km,4.1 km,7.1 km,3.1 km,42.3432311,-71.1454397
+"21-23 Weitz St, Allston, MA",4,4000,5.2 km,0.6 km,4.5 km,3.2 km,42.3612641,-71.1309007
+"25 Murdock St FLOOR 1, Brighton, MA 02135",4,4850,6.7 km,2.9 km,5.9 km,2.7 km,42.3506939,-71.14740429999999
+"1100 Vfw Pkwy #3306, West Roxbury, MA 02132",1,2400,11.7 km,16.9 km,13.5 km,11.1 km,42.28382790000001,-71.1715456
+"46 Donnybrook Rd #2, Brighton, MA 02135",4,4400,9.8 km,3.8 km,9.9 km,3.9 km,42.3542989,-71.160643
+"35 Glencoe St, Brighton, MA",Studio,2200,8.8 km,2.7 km,6.0 km,2.7 km,42.3543246,-71.14871720000001
+"1653 Commonwealth Ave, Brighton, MA",3,3300,5.5 km,4.2 km,7.2 km,3.9 km,42.3426109,-71.1446776
+"1653 Commonwealth Ave, Brighton, MA",4,3600,5.5 km,4.2 km,7.2 km,3.9 km,42.3426109,-71.1446776
+"11 Oakland St #1, Brighton, MA 02135",3,3600,10.0 km,4.1 km,10.1 km,3.9 km,42.3497536,-71.1575963
+"64 Wallingford Rd #2, Brighton, MA 02135",4,4400,6.0 km,3.8 km,6.9 km,3.7 km,42.343536,-71.1513258
+"15 Egremont Rd, Boston, MA",1,2145,5.3 km,3.8 km,6.3 km,3.0 km,42.3410218,-71.14386429999999
+"15 Egremont Rd, Boston, MA",2,2750,5.3 km,3.8 km,6.3 km,3.0 km,42.3410218,-71.14386429999999
+"30 Lake Shore Ter, Brighton, MA",2,2575,11.3 km,5.4 km,11.7 km,4.8 km,42.3427543,-71.1685409
+"30 Lake Shore Ter, Brighton, MA",3,3300,11.3 km,5.4 km,11.7 km,4.8 km,42.3427543,-71.1685409
+"38 Gerrish St, Brighton, MA",4,4600,9.7 km,3.7 km,9.8 km,8.2 km,42.3560812,-71.1643234
+"35 Orkney Rd APT 3, Brighton, MA 02135",4,4400,5.3 km,5.0 km,6.7 km,4.3 km,42.3371547,-71.1494632
+"44 Gardena St #3, Brighton, MA 02135",3,4000,8.9 km,2.8 km,6.0 km,3.2 km,42.3538106,-71.1482286
+"199 Peterborough St, Boston, MA",Studio,2550,1.7 km,3.3 km,3.6 km,1.2 km,42.3428677,-71.1009347
+"9-11 Burney St #407, Roxbury Crossing, MA 02120",1,3250,1.2 km,7.6 km,4.5 km,2.6 km,42.33192,-71.0997086
+"(undisclosed Address), Allston, MA 02134",2,3895,4.9 km,1.3 km,4.1 km,2.8 km,42.3593008,-71.1270268
+"9 Lothrop St #1, Brighton, MA 02135",3,3400,8.0 km,1.8 km,8.1 km,6.5 km,42.3602013,-71.1455247
+"109 Lanark Rd #1, Brighton, MA 02135",4,4300,5.5 km,3.9 km,6.5 km,3.2 km,42.3408464,-71.1484258
+"(undisclosed Address), Brighton, MA 02135",4,3800,10.6 km,4.6 km,10.9 km,4.1 km,42.3463503,-71.1626756
+"73 Gainsborough St, Boston, MA",1,3400,0.3 km,6.2 km,3.0 km,1.5 km,42.3424447,-71.0876979
+"73 Gainsborough St, Boston, MA",3,6600,0.3 km,6.2 km,3.0 km,1.5 km,42.3424447,-71.0876979
+"36 Arlington St #1, Brighton, MA 02135",5,4700,9.8 km,3.8 km,6.3 km,3.1 km,42.3520208,-71.1535397
+"96 Linden St APT 3, Allston, MA 02134",1,2600,5.6 km,2.0 km,4.9 km,1.2 km,42.3513464,-71.12986029999999
+"605 E 3rd St #1, Boston, MA 02127",3,4325,4.8 km,10.7 km,9.2 km,10.7 km,42.3363168,-71.0358969
+"18 Claymoss Rd #2, Brighton, MA 02135",4,4400,5.5 km,4.2 km,7.2 km,3.2 km,42.3436393,-71.144699
+"41 Anderson St, Boston, MA",Studio,2000,4.3 km,8.1 km,2.7 km,3.8 km,42.359857,-71.06791799999999
+"41 Anderson St, Boston, MA",3,4800,4.3 km,8.1 km,2.7 km,3.8 km,42.359857,-71.06791799999999
+"6 Sparhawk St #10, Brighton, MA 02135",4,4800,6.7 km,2.9 km,5.9 km,2.7 km,42.350298,-71.1484292
+"30 Raymond St #36, Allston, MA 02134",5,5400,6.3 km,0.8 km,4.8 km,3.5 km,42.3618072,-71.1339971
+"25 Eulita Ter #2, Brighton, MA 02135",4,4300,7.2 km,3.4 km,6.4 km,3.2 km,42.346559,-71.1525647
+"48 Hereford St, Boston, MA",Studio,2400,1.5 km,5.7 km,2.1 km,1.0 km,42.3490672,-71.0856014
+"48 Hereford St, Boston, MA",1,2800,1.5 km,5.7 km,2.1 km,1.0 km,42.3490672,-71.0856014
+"107 Columbia Rd, Dorchester, MA",3,3200,4.1 km,15.0 km,12.9 km,7.2 km,42.3050693,-71.0805489
+"24 Tremont St #1, Brighton, MA 02135",3,3400,12.5 km,4.5 km,10.1 km,4.6 km,42.3499904,-71.1695683
+"20 Shanley St, Brighton, MA",1,2750,10.3 km,4.4 km,6.8 km,3.6 km,42.34824990000001,-71.1580259
+"20 Shanley St, Brighton, MA",2,2800,10.3 km,4.4 km,6.8 km,3.6 km,42.34824990000001,-71.1580259
+"70 Empire St, Allston, MA",2,2800,5.0 km,1.3 km,4.2 km,2.9 km,42.3583508,-71.12736029999999
+"70 Empire St, Allston, MA",3,3300,5.0 km,1.3 km,4.2 km,2.9 km,42.3583508,-71.12736029999999
+"55 Leicester St, Brighton, MA",3,2700,9.9 km,4.0 km,6.5 km,3.3 km,42.3510383,-71.1539318
+"55 Leicester St, Brighton, MA",5,5050,9.9 km,4.0 km,6.5 km,3.3 km,42.3510383,-71.1539318
+"1435 Tremont St, Boston, MA",2,4499,1.0 km,7.4 km,4.2 km,2.7 km,42.3319039,-71.0964843
+"1435 Tremont St, Boston, MA",4,7999,1.0 km,7.4 km,4.2 km,2.7 km,42.3319039,-71.0964843
+"161 Kelton St, Allston, MA",Studio,1875,4.5 km,2.9 km,5.2 km,1.9 km,42.3476566,-71.1385645
+"161 Kelton St, Allston, MA",1,2050,4.5 km,2.9 km,5.2 km,1.9 km,42.3476566,-71.1385645
+"26 Harbor View St, Boston, MA",3,3300,3.9 km,12.7 km,10.6 km,11.4 km,42.3174171,-71.0552191
+"26 Harbor View St, Boston, MA",4,3200,3.9 km,12.7 km,10.6 km,11.4 km,42.3174171,-71.0552191
+"288 Foster St, Boston, MA",4,6200,11.2 km,5.2 km,7.6 km,4.4 km,42.3407249,-71.1591354
+"288 Foster St, Boston, MA",5,7200,11.2 km,5.2 km,7.6 km,4.4 km,42.3407249,-71.1591354
+"123 Sutherland Rd, Brighton, MA",Studio,2695,5.4 km,3.9 km,6.5 km,3.2 km,42.3402127,-71.147897
+"123 Sutherland Rd, Brighton, MA",1,2600,5.4 km,3.9 km,6.5 km,3.2 km,42.3402127,-71.147897
+"123 Sutherland Rd, Brighton, MA",2,3195,5.4 km,3.9 km,6.5 km,3.2 km,42.3402127,-71.147897
+"123 Sutherland Rd, Brighton, MA",4,4200,5.4 km,3.9 km,6.5 km,3.2 km,42.3402127,-71.147897
+"2 Ayr Rd, Brighton, MA",1,2275,5.3 km,5.0 km,6.7 km,4.3 km,42.3371171,-71.1486879
+"110-120 Brainerd Rd, Allston, MA",1,2400,4.5 km,2.8 km,5.1 km,1.8 km,42.3464306,-71.1349645
+"110-120 Brainerd Rd, Allston, MA",2,2950,4.5 km,2.8 km,5.1 km,1.8 km,42.3464306,-71.1349645
+"1645 Commonwealth Ave, Brighton, MA",Studio,1950,5.5 km,4.2 km,7.2 km,3.9 km,42.3426945,-71.1445499
+"1645 Commonwealth Ave, Brighton, MA",1,2100,5.5 km,4.2 km,7.2 km,3.9 km,42.3426945,-71.1445499
+"1645 Commonwealth Ave, Brighton, MA",2,2500,5.5 km,4.2 km,7.2 km,3.9 km,42.3426945,-71.1445499
+"1645 Commonwealth Ave, Brighton, MA",4,3750,5.5 km,4.2 km,7.2 km,3.9 km,42.3426945,-71.1445499
+"40-42 Anderson Pl, Boston, MA",Studio,2100,4.3 km,8.0 km,2.6 km,3.8 km,42.3605269,-71.06756399999999
+"40-42 Anderson Pl, Boston, MA",1,2800,4.3 km,8.0 km,2.6 km,3.8 km,42.3605269,-71.06756399999999
+"40-42 Anderson Pl, Boston, MA",2,3300,4.3 km,8.0 km,2.6 km,3.8 km,42.3605269,-71.06756399999999
+"106 Queensberry St, Boston, MA",1,3300,1.1 km,6.4 km,3.2 km,1.4 km,42.3418191,-71.1000712
+"42 8th St, Charlestown, MA",1,2650,7.2 km,11.0 km,5.9 km,6.7 km,42.3750453,-71.0526553
+"79 N Margin St, Boston, MA",1,2600,6.4 km,10.6 km,4.7 km,4.9 km,42.3658498,-71.0569848
+"64 Hobart St #1, Brighton, MA 02135",3,3200,9.7 km,3.7 km,9.8 km,3.9 km,42.3549812,-71.16047089999999
+"39 Blenford Rd #1, Boston, MA 02135",3,3300,5.7 km,3.8 km,6.8 km,3.8 km,42.3446936,-71.15063239999999
+"17 Sparhawk St #4, Brighton, MA 02135",4,4800,6.8 km,3.0 km,6.0 km,2.8 km,42.3512074,-71.1496619
+"55 Park Dr, Boston, MA",Studio,2195,1.1 km,6.4 km,4.3 km,1.9 km,42.3430297,-71.0951509
+"55 Park Dr, Boston, MA",1,2800,1.1 km,6.4 km,4.3 km,1.9 km,42.3430297,-71.0951509
+"55 Park Dr, Boston, MA",2,3050,1.1 km,6.4 km,4.3 km,1.9 km,42.3430297,-71.0951509
+"30 Kinross Rd, Brighton, MA",1,2400,5.6 km,4.0 km,6.6 km,3.3 km,42.3403442,-71.1489349
+"30 Kinross Rd, Brighton, MA",2,2800,5.6 km,4.0 km,6.6 km,3.3 km,42.3403442,-71.1489349
+"30 Glencoe St #1, Brighton, MA 02135",3,3800,8.7 km,2.7 km,5.9 km,2.6 km,42.3544862,-71.1481156
+"3 Glenley Ter #1, Brighton, MA 02135",6,5900,12.6 km,4.7 km,10.3 km,4.8 km,42.3483224,-71.16999109999999
+"12 Shannon St #1, Brighton, MA 02135",3,3200,5.6 km,3.3 km,6.3 km,3.3 km,42.3469042,-71.1491935
+"9 Sparhawk St #2, Brighton, MA 02135",4,5400,6.7 km,2.9 km,5.9 km,2.7 km,42.3508045,-71.1485521
+"41 Gardena St #2, Brighton, MA 02135",3,3600,8.8 km,2.8 km,6.0 km,3.2 km,42.353615,-71.1486754
+"11 Dunboy St #2, Brighton, MA 02135",3,3300,10.0 km,4.1 km,10.2 km,4.1 km,42.3525115,-71.1646341
+"(undisclosed Address), Brighton, MA 02135",2,2825,10.6 km,4.6 km,10.9 km,4.1 km,42.3463503,-71.1626756
+"14 Sparhawk St #2, Brighton, MA 02135",4,4800,6.8 km,3.0 km,6.0 km,2.8 km,42.3506998,-71.1496751
+"77 Colborne Rd #2, Brighton, MA 02135",2,3000,5.5 km,3.8 km,6.8 km,3.2 km,42.3444753,-71.1479205
+"48 Cummings Rd APT 1, Brighton, MA 02135",5,5000,5.2 km,3.7 km,6.2 km,2.9 km,42.34095000000001,-71.1450881
+"142 Sutherland Rd, Brighton, MA",3,3400,5.4 km,3.8 km,6.4 km,3.1 km,42.3409515,-71.1474727
+"142 Sutherland Rd, Brighton, MA",4,5000,5.4 km,3.8 km,6.4 km,3.1 km,42.3409515,-71.1474727
+"131 Brooks St #1, Brighton, MA 02135",4,4800,9.8 km,3.8 km,9.9 km,4.0 km,42.3531129,-71.16333039999999
+"80 Brooks St #3, Brighton, MA 02135",3,3300,9.5 km,3.6 km,9.7 km,8.1 km,42.3549343,-71.16257329999999
+"156 Strathmore Rd #21, Brighton, MA 02135",2,3100,6.0 km,4.5 km,7.0 km,3.7 km,42.3394735,-71.1537488
+"41 Arlington St #3, Brighton, MA 02135",3,3600,9.8 km,3.8 km,6.4 km,3.2 km,42.3522998,-71.1536418
+"21 Champney St #1, Brighton, MA 02135",6,5900,12.3 km,4.6 km,9.9 km,8.6 km,42.3518574,-71.1687252
+"23 Colborne Rd #2, Brighton, MA 02135",4,4500,5.3 km,4.0 km,7.0 km,3.0 km,42.342797,-71.1460304
+"40 Glenley Ter #1, Brighton, MA 02135",6,5700,12.8 km,4.8 km,10.4 km,4.9 km,42.3484389,-71.1714804
+"14 Bentley St #1, Brighton, MA 02135",3,3200,7.0 km,3.2 km,6.2 km,3.0 km,42.3507409,-71.15105059999999
+"224 Faneuil St #2, Brighton, MA 02135",4,3750,9.7 km,3.7 km,9.8 km,3.8 km,42.3531578,-71.1591521
+"12 Melvin Ave #2, Brighton, MA 02135",4,4700,5.1 km,3.2 km,5.8 km,2.5 km,42.3445525,-71.1412169
+"4 Wadsworth St #2, Allston, MA 02134",5,5150,5.9 km,2.2 km,5.1 km,1.3 km,42.35528009999999,-71.1268264
+"62 N Beacon St #4, Allston, MA 02134",4,5200,8.3 km,2.0 km,5.2 km,1.9 km,42.3539564,-71.141115
+"3 Delaware Pl #2, Brighton, MA 02135",3,3550,9.9 km,3.9 km,6.3 km,3.1 km,42.35180310000001,-71.1524683
+"63 Selkirk Rd, Boston, MA",2,2950,5.8 km,4.3 km,6.8 km,3.5 km,42.3396464,-71.14953229999999
+"4 Adella Pl #G, Allston, MA 02134",3,3500,6.0 km,2.3 km,5.2 km,1.6 km,42.3526356,-71.1364122
+"106 Warren St, Brighton, MA",2,3400,6.9 km,2.6 km,6.2 km,2.1 km,42.3494873,-71.1417436
+"48 Hereford St, Boston, MA",1,2800,1.5 km,5.7 km,2.1 km,1.0 km,42.3490672,-71.0856014
+"65 Surrey St #1, Brighton, MA 02135",3,3150,10.5 km,4.5 km,6.9 km,3.7 km,42.3509025,-71.1559829
+"9 Bennett St #2, Boston, MA 02135",3,3150,10.0 km,4.0 km,6.4 km,3.2 km,42.3512717,-71.1529086
+"16 Sutherland Rd APT 2, Brighton, MA 02135",4,4200,5.4 km,4.3 km,6.9 km,3.6 km,42.3370437,-71.150444
+"11 Lothrop St FLOOR 2, Brighton, MA 02135",3,3300,8.0 km,1.8 km,8.1 km,6.5 km,42.3602151,-71.1454693
+"133 Seaport Blvd, Boston, MA",1,4845,5.3 km,9.9 km,7.4 km,8.3 km,42.3505079,-71.0436145
+"133 Seaport Blvd, Boston, MA",2,8950,5.3 km,9.9 km,7.4 km,8.3 km,42.3505079,-71.0436145
+"72 Strathmore Rd APT 12B, Brighton, MA 02135",3,3250,5.3 km,4.6 km,6.7 km,3.8 km,42.33830520000001,-71.14902769999999
+"33 Bigelow St #2, Brighton, MA 02135",3,3400,10.2 km,4.3 km,10.1 km,4.6 km,42.35311919999999,-71.1675928
+"33-35 Gray St, Boston, MA",1,5200,2.4 km,7.6 km,4.0 km,3.0 km,42.3456343,-71.0715745
+"8 Donnybrook Rd #2, Brighton, MA 02135",4,4400,9.6 km,3.7 km,9.7 km,3.8 km,42.3540918,-71.1588814
+"35 Bentley St #2, Boston, MA 02135",5,9999,7.0 km,3.2 km,6.2 km,3.0 km,42.3502377,-71.15168589999999
+"49 Orkney Rd #3, Brighton, MA 02135",4,4400,5.4 km,5.1 km,6.8 km,4.4 km,42.3370074,-71.1500413
+"66 Perthshire Rd #2, Brighton, MA 02135",4,4500,10.2 km,4.3 km,9.9 km,4.5 km,42.3537788,-71.1683807
+"95 Prince St, Boston, MA",1,2595,6.9 km,11.0 km,4.0 km,5.5 km,42.3657706,-71.0561955
+"95 Prince St, Boston, MA",2,3695,6.9 km,11.0 km,4.0 km,5.5 km,42.3657706,-71.0561955
+"21 Morrow Rd FLOOR 2, Brighton, MA 02135",3,3200,8.9 km,2.9 km,6.1 km,2.8 km,42.353434,-71.1495439
+"19 Litchfield St APT 3, Brighton, MA 02135",3,3400,6.1 km,1.8 km,5.3 km,2.9 km,42.3586681,-71.1412599
+"16 Leicester St FLOOR 2, Brighton, MA 02135",3,3300,10.2 km,4.3 km,6.5 km,3.3 km,42.3498382,-71.1547622
+"72 Brooks St #2, Brighton, MA 02135",3,3200,9.5 km,3.6 km,9.6 km,8.0 km,42.355134,-71.1624607
+"39 Snow St #1, Brighton, MA 02135",4,6000,5.6 km,3.7 km,6.8 km,3.4 km,42.3458686,-71.1493934
+"17 Hemenway St #14, Boston, MA 02115",Studio,3200,1.1 km,5.7 km,2.6 km,1.1 km,42.346263,-71.089512
+"20 Chiswick Rd #8, Brighton, MA 02135",3,3400,5.5 km,4.5 km,7.0 km,3.7 km,42.3382681,-71.1509629
+"65 Gardena St #1, Brighton, MA 02135",4,4950,8.9 km,2.7 km,5.9 km,3.1 km,42.3533242,-71.1474559
+"7 Willoughby St, Brighton, MA 02135",4,4200,10.6 km,4.6 km,11.0 km,3.9 km,42.3471291,-71.16072869999999
+"30 Faneuil St #2, Brighton, MA 02135",4,4800,9.8 km,3.9 km,6.9 km,2.9 km,42.355115,-71.1510643
+"24 Peterborough St, Boston, MA",Studio,2550,1.0 km,6.1 km,2.9 km,1.5 km,42.3438319,-71.0961564
+"24 Peterborough St, Boston, MA",1,2800,1.0 km,6.1 km,2.9 km,1.5 km,42.3438319,-71.0961564
+"4 Donnybrook Rd #2, Brighton, MA 02135",4,4000,9.6 km,3.7 km,9.7 km,3.8 km,42.353933,-71.1588439
+"490 Washington St #2, Boston, MA 02135",5,4950,10.4 km,4.5 km,10.5 km,3.8 km,42.3487584,-71.1611442
+"120 London St, Boston, MA",1,2100,7.6 km,11.4 km,6.3 km,7.1 km,42.373169,-71.0394579
+"46A Kirkwood Rd, Brighton, MA",4,8700,6.5 km,5.3 km,7.3 km,4.2 km,42.341308,-71.156757
+"46A Kirkwood Rd, Brighton, MA",7,10675,6.5 km,5.3 km,7.3 km,4.2 km,42.341308,-71.156757
+"17 Kinross Rd FLOOR 3, Brighton, MA 02135",3,3600,5.6 km,4.1 km,6.6 km,3.3 km,42.3402421,-71.14973069999999
+"31 Mansfield St #2, Allston, MA 02134",4,5200,5.2 km,1.0 km,4.4 km,3.1 km,42.3581874,-71.1309302
+"36 Orkney Rd APT 3, Brighton, MA 02135",4,4400,5.4 km,5.1 km,6.8 km,4.3 km,42.3367099,-71.1497718
+"70 Langley Rd #1, Brighton, MA 02135",4,5700,12.6 km,4.5 km,10.3 km,4.1 km,42.3493824,-71.1651124
+"(undisclosed Address), Brighton, MA 02135",4,3900,10.6 km,4.6 km,10.9 km,4.1 km,42.3463503,-71.1626756
+"504 Beacon St, Boston, MA",Studio,2175,1.2 km,5.2 km,2.5 km,0.7 km,42.3510027,-71.0897693
+"504 Beacon St, Boston, MA",2,3200,1.2 km,5.2 km,2.5 km,0.7 km,42.3510027,-71.0897693
+"12 Cummings Rd #2, Brighton, MA 02135",5,5000,5.4 km,3.8 km,6.4 km,3.1 km,42.3402093,-71.1434553
+"1561 Commonwealth Ave #3, Brighton, MA 02135",2,2900,5.0 km,3.1 km,6.1 km,2.8 km,42.3450774,-71.1423354
+"14-18 Westford St #7R, Allston, MA 02134",2,3100,6.4 km,0.9 km,5.0 km,3.7 km,42.3623501,-71.1350807
+"128 Parsons St #2, Brighton, MA 02135",5,5500,9.4 km,3.5 km,9.5 km,3.5 km,42.3544424,-71.1555508
+"42 Claymoss Rd, Brighton, MA",3,3150,5.2 km,3.9 km,6.2 km,2.9 km,42.3443398,-71.1459485
+"42 Claymoss Rd, Brighton, MA",5,4400,5.2 km,3.9 km,6.2 km,2.9 km,42.3443398,-71.1459485
+"108 Kenrick St #4, Brighton, MA 02135",4,5400,12.9 km,5.0 km,10.6 km,4.4 km,42.346484,-71.1671546
+"57 Hobart St #1, Brighton, MA 02135",3,3300,9.7 km,3.8 km,9.8 km,3.9 km,42.3552389,-71.159993
+"(undisclosed Address), Boston, MA 02215",Studio,2475,3.8 km,8.7 km,5.5 km,4.4 km,42.3476181,-71.1002881
+"72 Hobart St #2, Brighton, MA 02135",5,5300,9.6 km,3.7 km,9.7 km,4.0 km,42.3550628,-71.1608773
+"122 Bennett St #1, Brighton, MA 02135",3,3150,9.9 km,4.0 km,10.0 km,3.7 km,42.3517537,-71.1595426
+"180 Endicott St, Boston, MA",1,2700,6.4 km,10.5 km,4.6 km,4.9 km,42.365977,-71.057768
+"319 Summit Ave #1, Brighton, MA 02135",5,5500,5.1 km,3.1 km,5.7 km,2.4 km,42.3454477,-71.1399723
+"33 Harriet St FLOOR 2, Brighton, MA 02135",4,4000,9.8 km,3.9 km,9.9 km,3.5 km,42.35337819999999,-71.1559906
+"140 Newton St, Brighton, MA",3,3300,10.0 km,4.1 km,10.1 km,8.5 km,42.3557486,-71.1689322
+"68 Glencoe St #3, Brighton, MA 02135",3,3500,8.9 km,2.8 km,6.1 km,3.2 km,42.3532121,-71.1488256
+"1661-1665 Washington St, Boston, MA",1,2900,1.3 km,8.0 km,3.7 km,2.7 km,42.3378218,-71.0756038
+"1661-1665 Washington St, Boston, MA",2,3450,1.3 km,8.0 km,3.7 km,2.7 km,42.3378218,-71.0756038
+"50 Evergreen St, Jamaica Plain, MA",1,2500,3.3 km,5.6 km,6.0 km,3.5 km,42.3242827,-71.1115548
+"50 Evergreen St, Jamaica Plain, MA",2,3100,3.3 km,5.6 km,6.0 km,3.5 km,42.3242827,-71.1115548
+"134 Newton St, Brighton, MA",3,3200,10.0 km,4.1 km,10.1 km,8.5 km,42.3558141,-71.1684233
+"1840-6 Commonwealth Ave, Brighton, MA",Studio,2100,5.8 km,4.2 km,6.8 km,3.5 km,42.3396206,-71.15134929999999
+"1840-6 Commonwealth Ave, Brighton, MA",1,2100,5.8 km,4.2 km,6.8 km,3.5 km,42.3396206,-71.15134929999999
+"1840-6 Commonwealth Ave, Brighton, MA",2,2700,5.8 km,4.2 km,6.8 km,3.5 km,42.3396206,-71.15134929999999
+"1840-6 Commonwealth Ave, Brighton, MA",3,4450,5.8 km,4.2 km,6.8 km,3.5 km,42.3396206,-71.15134929999999
+"7 Wollaston Ter, Dorchester Center, MA",2,2650,8.0 km,20.4 km,18.3 km,10.7 km,42.2869838,-71.0832321
+"822 Huntington Ave, Boston, MA",2,3300,1.5 km,4.7 km,5.1 km,2.6 km,42.3331386,-71.1089109
+"303 Summit Ave, Brighton, MA",2,2600,4.6 km,3.3 km,5.5 km,2.2 km,42.34488229999999,-71.1391926
+"303 Summit Ave, Brighton, MA",5,6500,4.6 km,3.3 km,5.5 km,2.2 km,42.34488229999999,-71.1391926
+"113 Beacon St, Boston, MA",1,3000,2.8 km,6.6 km,3.0 km,2.3 km,42.3549779,-71.0732458
+"113 Beacon St, Boston, MA",2,5000,2.8 km,6.6 km,3.0 km,2.3 km,42.3549779,-71.0732458
+"113 Beacon St, Boston, MA",3,5000,2.8 km,6.6 km,3.0 km,2.3 km,42.3549779,-71.0732458
+"295 Summit Ave #2, Boston, MA 02135",5,5500,4.6 km,3.3 km,5.6 km,2.3 km,42.3446573,-71.1387932
+"25 Mapleton St #2, Brighton, MA 02135",5,5500,7.0 km,3.2 km,6.2 km,3.0 km,42.3519593,-71.1501547
+"16 Oakland St #2, Brighton, MA 02135",4,5400,10.0 km,4.0 km,10.1 km,3.8 km,42.349901,-71.1580717
+"23 Chiswick Rd #4, Brighton, MA 02135",3,3400,5.5 km,4.5 km,7.0 km,3.7 km,42.33805599999999,-71.1506455
+"60 Bennett St #2, Brighton, MA 02135",3,3300,9.9 km,4.0 km,10.0 km,3.4 km,42.3516986,-71.1563426
+"1665 Commonwealth Ave APT 2, Brighton, MA 02135",4,3750,5.5 km,4.2 km,7.1 km,3.8 km,42.3423194,-71.14526359999999
+"176 N Beacon St, Boston, MA",1,2400,8.6 km,2.5 km,5.7 km,2.4 km,42.3555394,-71.1472756
+"176 N Beacon St, Boston, MA",2,2700,8.6 km,2.5 km,5.7 km,2.4 km,42.3555394,-71.1472756
+"164 Endicott St, Boston, MA",2,3200,6.4 km,10.6 km,4.7 km,4.9 km,42.3655593,-71.05756509999999
+"76 Hano St, Allston, MA 02134",4,3550,5.7 km,2.0 km,5.0 km,2.0 km,42.3553512,-71.1373086
+"14 Leicester St #3, Brighton, MA 02135",3,3400,10.2 km,4.3 km,6.5 km,3.3 km,42.3498191,-71.1547671
+"38 Perthshire Rd #2, Brighton, MA 02135",4,4700,10.3 km,4.3 km,10.1 km,4.4 km,42.353505,-71.1670745
+"41 Matchett St #1, Brighton, MA 02135",3,3600,12.1 km,4.5 km,9.8 km,8.5 km,42.3537754,-71.17010909999999
+"45 Matchett St #1, Brighton, MA 02135",3,3600,12.1 km,4.5 km,9.8 km,8.5 km,42.3538532,-71.17004539999999
+"16 Hopedale St #1, Allston, MA 02134",5,5900,4.8 km,1.2 km,4.0 km,2.7 km,42.3598872,-71.1268077
+"20 Coolidge Rd #1, Allston, MA 02134",3,3400,5.5 km,1.2 km,4.8 km,3.5 km,42.3597132,-71.1292011
+"8 Crowell St APT 1, Dorchester Center, MA 02124",3,3800,7.9 km,19.7 km,17.6 km,10.6 km,42.2834774,-71.0819123
+"6 Sparhawk St #1, Brighton, MA 02135",3,3850,6.7 km,2.9 km,5.9 km,2.7 km,42.3503021,-71.1484186
+"80 Etna St #2, Brighton, MA 02135",4,3800,9.0 km,2.7 km,6.0 km,3.0 km,42.35291429999999,-71.14766329999999
+"48 Adamson St #46, Allston, MA 02134",3,3500,5.5 km,1.1 km,4.7 km,3.5 km,42.358293,-71.1349286
+"164 Kelton St #3, Boston, MA 02134",3,3600,4.5 km,2.8 km,5.2 km,1.9 km,42.3480491,-71.1387481
+"15 Bothwell Rd FLOOR 2, Brighton, MA 02135",5,6000,9.8 km,3.8 km,9.9 km,3.8 km,42.3533087,-71.160511
+"40 Donnybrook Rd, Brighton, MA",4,3800,9.7 km,3.8 km,9.9 km,3.9 km,42.3543274,-71.16043239999999
+"(undisclosed Address), Boston, MA 02135",3,4000,10.6 km,4.6 km,10.9 km,4.1 km,42.3463503,-71.1626756
+"18 Sutherland Rd #21, Brighton, MA 02135",3,3325,5.4 km,4.3 km,6.9 km,3.6 km,42.3371144,-71.1504412
+"(undisclosed Address), Boston, MA 02115",4,5600,0.7 km,6.5 km,3.1 km,2.1 km,42.339904,-71.0898892
+"(undisclosed Address), Brighton, MA 02135",2,2900,10.6 km,4.6 km,10.9 km,4.1 km,42.3463503,-71.1626756
+"(undisclosed Address), Jamaica Plain, MA 02130",2,3695,4.3 km,7.5 km,7.9 km,5.4 km,42.3097365,-71.1151431
+"36-40 Hemenway St, Boston, MA",Studio,2300,1.2 km,5.8 km,2.6 km,1.1 km,42.3455725,-71.0892049
+"36-40 Hemenway St, Boston, MA",1,3000,1.2 km,5.8 km,2.6 km,1.1 km,42.3455725,-71.0892049
+"36-40 Hemenway St, Boston, MA",2,3600,1.2 km,5.8 km,2.6 km,1.1 km,42.3455725,-71.0892049
+"36-40 Hemenway St, Boston, MA",3,4950,1.2 km,5.8 km,2.6 km,1.1 km,42.3455725,-71.0892049
+"249 Chestnut Hill Ave, Brighton, MA",Studio,1900,6.2 km,4.2 km,7.3 km,3.9 km,42.3394322,-71.1550232
+"249 Chestnut Hill Ave, Brighton, MA",2,2500,6.2 km,4.2 km,7.3 km,3.9 km,42.3394322,-71.1550232
+"314 Faneuil St #3, Brighton, MA 02135",4,4000,9.8 km,3.9 km,10.0 km,4.0 km,42.3521909,-71.1632669
+"14 Glenmont Rd FLOOR 2, Brighton, MA 02135",3,3500,10.8 km,4.9 km,11.2 km,4.3 km,42.3458603,-71.1587867
+"150 Englewood Ave #21, Brighton, MA 02135",3,3325,5.6 km,4.6 km,7.2 km,3.9 km,42.3372731,-71.1517999
+"10-20 Elko St, Brighton, MA",1,2850,6.8 km,3.0 km,6.1 km,2.9 km,42.349802,-71.1494896
+"10-20 Elko St, Brighton, MA",2,3150,6.8 km,3.0 km,6.1 km,2.9 km,42.349802,-71.1494896
+"41 Bennett St #2, Brighton, MA 02135",4,4400,9.8 km,3.9 km,9.9 km,3.3 km,42.3518366,-71.1550504
+"20 Cufflin St #2, Brighton, MA 02135",4,5800,12.5 km,5.1 km,10.1 km,5.1 km,42.3506613,-71.1741263
+"42-46 Brackett St #2, Brighton, MA 02135",3,3500,12.6 km,4.7 km,10.3 km,4.7 km,42.3516082,-71.1653137
+"37 Faneuil St #2, Brighton, MA 02135",6,5995,9.7 km,3.8 km,6.8 km,2.9 km,42.3554338,-71.1516013
+"38 Queensberry St #12, Boston, MA 02215",Studio,2450,0.8 km,6.4 km,3.2 km,2.1 km,42.3427515,-71.0966242
+"8 Bellvista Rd #6, Brighton, MA 02135",2,3000,4.6 km,3.1 km,5.3 km,2.0 km,42.3466301,-71.13824129999999
+"14 Brooks St #3, Brighton, MA 02135",3,3300,9.4 km,3.5 km,9.6 km,8.0 km,42.3569915,-71.1618928
+"46 Cummings Rd #1, Brighton, MA 02135",3,3800,5.2 km,3.7 km,6.2 km,2.9 km,42.3409183,-71.1451287
+"877-881 Beacon St, Boston, MA",Studio,2800,1.8 km,2.9 km,3.2 km,0.7 km,42.34650389999999,-71.10452149999999
+"877-881 Beacon St, Boston, MA",1,3000,1.8 km,2.9 km,3.2 km,0.7 km,42.34650389999999,-71.10452149999999
+"877-881 Beacon St, Boston, MA",2,3400,1.8 km,2.9 km,3.2 km,0.7 km,42.34650389999999,-71.10452149999999
+"877-881 Beacon St, Boston, MA",3,8000,1.8 km,2.9 km,3.2 km,0.7 km,42.34650389999999,-71.10452149999999
+"10 Donald Rd UNIT 3, Dorchester Center, MA 02124",4,3500,6.0 km,11.7 km,12.0 km,9.6 km,42.29075,-71.0901492
+"42 Saxton St, Dorchester, MA",1,2650,4.4 km,13.4 km,11.4 km,12.2 km,42.31387060000001,-71.05436879999999
+"42 Saxton St, Dorchester, MA",2,2650,4.4 km,13.4 km,11.4 km,12.2 km,42.31387060000001,-71.05436879999999
+"42 Saxton St, Dorchester, MA",3,2800,4.4 km,13.4 km,11.4 km,12.2 km,42.31387060000001,-71.05436879999999
+"58 Atkins St #1, Brighton, MA 02135",3,3500,12.2 km,4.5 km,9.8 km,8.6 km,42.3534797,-71.1695567
+"14 Woodmont St #1, Brighton, MA 02135",4,3700,9.4 km,3.5 km,9.5 km,7.9 km,42.3568496,-71.16299430000001
+"37 Atkins St #2, Brighton, MA 02135",4,4400,12.1 km,4.8 km,9.8 km,8.5 km,42.3528272,-71.16968229999999
+"56 Charlesgate E, Boston, MA",1,2945,1.4 km,5.9 km,2.8 km,1.3 km,42.347154,-71.09107949999999
+"56 Charlesgate E, Boston, MA",2,3800,1.4 km,5.9 km,2.8 km,1.3 km,42.347154,-71.09107949999999
+"25 Bostonia Ave #1, Brighton, MA 02135",4,3600,12.6 km,4.7 km,10.3 km,4.8 km,42.3484782,-71.1679267
+"984 Washington St, Dorchester Center, MA",2,3400,10.7 km,18.2 km,16.1 km,16.9 km,42.2783856,-71.0690955
+"984 Washington St, Dorchester Center, MA",3,3600,10.7 km,18.2 km,16.1 km,16.9 km,42.2783856,-71.0690955
+"24 Murdock St APT 5, Boston, MA 02135",3,3100,6.7 km,2.9 km,5.9 km,2.7 km,42.35085429999999,-71.1478635
+"12 Oakland St #1, Brighton, MA 02135",4,5600,10.0 km,4.1 km,10.1 km,3.9 km,42.34976590000001,-71.1580768
+"14 Bothwell Rd #1, Brighton, MA 02135",3,3900,9.8 km,3.8 km,9.9 km,3.8 km,42.3529943,-71.1604855
+"47-49 Orkney Rd UNIT 2C, Brighton, MA 02135",4,4800,5.4 km,5.1 km,6.8 km,4.4 km,42.3369637,-71.1501206
+"20-22 Surrey St #2, Brighton, MA 02135",3,3150,10.0 km,4.1 km,10.1 km,3.6 km,42.3500941,-71.15400149999999
+"16 Cufflin St #2, Brighton, MA 02135",4,5800,12.0 km,5.1 km,9.7 km,5.1 km,42.3507986,-71.1740506
+"1554 Commonwealth Ave #7, Brighton, MA 02135",2,2800,5.1 km,3.2 km,5.8 km,2.5 km,42.3443322,-71.1419505
+"14 Highgate St #303, Allston, MA 02134",2,3900,5.5 km,1.8 km,4.7 km,1.4 km,42.35546919999999,-71.1316724
+"52 Adamson St #2, Allston, MA 02134",3,3500,5.5 km,1.1 km,4.7 km,3.5 km,42.3582672,-71.13476419999999
+"62 Langley Rd #2, Brighton, MA 02135",4,5700,12.6 km,4.6 km,10.2 km,4.7 km,42.3494686,-71.1655265
+"68 Brooks St, Boston, MA",3,3200,9.5 km,3.6 km,9.6 km,8.0 km,42.3552434,-71.1623603
+"245 Chestnut Hill Ave #2, Brighton, MA 02135",2,2850,6.2 km,4.2 km,7.2 km,3.9 km,42.3395693,-71.1552258
+"506 E Broadway, Boston, MA",1,2400,4.4 km,10.7 km,8.6 km,9.4 km,42.3356792,-71.0443923
+"506 E Broadway, Boston, MA",2,2600,4.4 km,10.7 km,8.6 km,9.4 km,42.3356792,-71.0443923
+"42 Vineland St #2, Boston, MA 02135",3,3500,8.6 km,2.4 km,8.7 km,3.0 km,42.3574432,-71.1515433
+"78 Glenville Ave, Allston, MA 02134",2,3200,6.5 km,2.9 km,5.8 km,2.0 km,42.3491908,-71.1349723
+"86 Brooks St UNIT 1, Brighton, MA 02135",5,5500,9.6 km,3.6 km,9.7 km,8.1 km,42.35466170000001,-71.162565
+"40 Atkins St #1, Brighton, MA 02135",4,4000,12.1 km,4.8 km,9.8 km,8.5 km,42.353043,-71.1699665
+"228 Kelton St, Allston, MA",1,2125,4.3 km,3.1 km,5.1 km,1.8 km,42.3468622,-71.13651770000001
+"52 Cummings Rd APT 1, Brighton, MA 02135",5,5000,5.2 km,3.7 km,6.2 km,2.9 km,42.341015,-71.14509149999999
+"1666 Commonwealth Ave, Brighton, MA",1,3100,5.1 km,3.6 km,6.1 km,2.8 km,42.34182,-71.14451460000001
+"1666 Commonwealth Ave, Brighton, MA",2,2800,5.1 km,3.6 km,6.1 km,2.8 km,42.34182,-71.14451460000001
+"26 Fayette St, Boston, MA",1,2900,2.4 km,7.3 km,4.2 km,3.5 km,42.3487006,-71.0674425
+"70-72 Joy St, Boston, MA",Studio,2380,4.9 km,8.7 km,3.3 km,4.4 km,42.36063499999999,-71.065361
+"70-72 Joy St, Boston, MA",1,3300,4.9 km,8.7 km,3.3 km,4.4 km,42.36063499999999,-71.065361
+"70-72 Joy St, Boston, MA",2,3300,4.9 km,8.7 km,3.3 km,4.4 km,42.36063499999999,-71.065361
+"28 Bayard St #2, Allston, MA 02134",5,4250,5.2 km,0.6 km,4.4 km,3.2 km,42.3604359,-71.1307617
+"16 Miner St, Boston, MA",2,4500,1.9 km,2.8 km,3.2 km,0.7 km,42.3465004,-71.102746
+"124 Calumet St #1, Roxbury, MA 02120",2,3200,1.3 km,7.6 km,4.5 km,2.6 km,42.3309581,-71.1023706
+"25 Gordon St #1, Allston, MA 02134",3,4000,6.0 km,2.1 km,5.2 km,1.9 km,42.3529568,-71.14076
+"7 Greenville St #1, Roxbury, MA 02119",1,2300,1.5 km,11.4 km,4.8 km,4.1 km,42.3279887,-71.0810623
+"71 Surrey St #1, Brighton, MA 02135",3,3150,10.5 km,4.5 km,6.9 km,3.7 km,42.3508595,-71.15590759999999
+"90 Morris St #2, East Boston, MA 02128",2,3400,8.3 km,12.1 km,7.0 km,7.8 km,42.3768725,-71.03179469999999
+"36 Easton St #2, Allston, MA 02134",3,3000,5.5 km,0.9 km,4.7 km,3.4 km,42.3598745,-71.13042159999999
+"117 Sutherland Rd #7, Brighton, MA 02135",1,2675,5.5 km,3.9 km,6.5 km,3.2 km,42.3400786,-71.1480369
+"14 Bayard St #1, Allston, MA 02134",5,4250,5.2 km,0.6 km,4.4 km,3.1 km,42.3606993,-71.13029519999999
+"24 Donnybrook Rd #2, Brighton, MA 02135",4,3700,9.7 km,3.8 km,9.8 km,3.8 km,42.3541794,-71.1596528
+"16 Shepard St #4, Brighton, MA 02135",3,4200,7.0 km,3.2 km,6.3 km,3.4 km,42.347351,-71.1498386
+"8 Arlington St #3, Boston, MA 02116",3,3600,3.2 km,6.9 km,3.3 km,2.3 km,42.354411,-71.072311
+"10-12 Bayard St #1, Allston, MA 02134",5,4250,5.2 km,0.6 km,4.4 km,3.1 km,42.3607458,-71.1301616
+"194 Kelton St, Boston, MA",4,4400,4.4 km,3.0 km,5.1 km,1.8 km,42.3474728,-71.13757009999999
+"194 Kelton St, Boston, MA",5,5800,4.4 km,3.0 km,5.1 km,1.8 km,42.3474728,-71.13757009999999
+"235 Chestnut Hill Ave, Brighton, MA",4,6600,6.3 km,4.7 km,7.3 km,4.0 km,42.33983569999999,-71.1555418
+"11 Holton St #3, Boston, MA 02134",3,3000,7.6 km,0.9 km,4.9 km,2.7 km,42.3596851,-71.1338416
+"196 Green St, Jamaica Plain, MA",1,2750,3.7 km,7.7 km,8.1 km,5.6 km,42.3099404,-71.1049639
+"196 Green St, Jamaica Plain, MA",2,3400,3.7 km,7.7 km,8.1 km,5.6 km,42.3099404,-71.1049639
+"96 Dix St APT 1, Dorchester, MA 02122",2,3600,8.3 km,15.8 km,13.7 km,14.5 km,42.2963105,-71.0573895
+"12 Sparhawk St #1, Boston, MA 02135",4,4000,6.7 km,2.9 km,6.0 km,2.8 km,42.3505924,-71.1494021
+"55 Lanark Rd APT 9, Brighton, MA 02135",3,3500,5.2 km,4.0 km,6.5 km,3.2 km,42.3399761,-71.14624309999999
+"5 Delaware Pl #2, Brighton, MA 02135",3,3300,9.9 km,4.0 km,6.3 km,3.1 km,42.3516399,-71.152878
+"126 Chiswick Rd #9, Brighton, MA 02135",4,3600,6.2 km,4.2 km,7.2 km,3.9 km,42.34046499999999,-71.1528546
+"8 Glenmont Rd #1, Brighton, MA 02135",3,3400,10.9 km,4.9 km,11.2 km,4.4 km,42.3458413,-71.15851529999999
+"12 Priscilla Rd #2, Brighton, MA 02135",5,4500,7.4 km,3.6 km,6.6 km,3.9 km,42.34507139999999,-71.15229099999999
+"104 Brooks St APT 2, Brighton, MA 02135",3,3800,9.6 km,3.7 km,9.8 km,4.1 km,42.3540522,-71.1626804
+"33 Lothrop St FLOOR 2, Brighton, MA 02135",4,3700,8.1 km,1.9 km,8.2 km,6.6 km,42.3601886,-71.1447506
+"41 N Crescent Cir #2, Brighton, MA 02135",3,3300,10.2 km,4.3 km,10.6 km,3.7 km,42.3489143,-71.1604919
+"130 Bigelow St FLOOR 2, Brighton, MA 02135",3,3800,9.9 km,4.0 km,10.1 km,8.5 km,42.3563797,-71.1664325
+"11-13 E Lenox St, Boston, MA",2,4200,1.0 km,7.3 km,3.9 km,2.9 km,42.3345786,-71.07841049999999
+"11-13 E Lenox St, Boston, MA",3,5800,1.0 km,7.3 km,3.9 km,2.9 km,42.3345786,-71.07841049999999
+"126 Marginal St, Boston, MA",2,2950,8.7 km,12.5 km,7.3 km,8.2 km,42.365645,-71.0363106
+"93 Hobart St #2, Boston, MA 02135",4,3800,9.5 km,3.6 km,9.7 km,4.1 km,42.3555799,-71.1619553
+"24 Arlington St FLOOR 2, Brighton, MA 02135",3,3300,9.8 km,3.9 km,6.3 km,3.1 km,42.3518085,-71.15302679999999
+"92 Charles St, Boston, MA",Studio,2100,5.4 km,15.8 km,13.8 km,14.6 km,42.2995699,-71.06494239999999
+"26 Kenrick St #2, Brighton, MA 02135",4,4300,10.6 km,4.7 km,10.9 km,4.1 km,42.34625279999999,-71.1633389
+"(undisclosed Address), Boston, MA 02215",2,3350,3.8 km,8.7 km,5.5 km,4.4 km,42.3476181,-71.1002881
+"565 Massachusetts Ave APT 1, Roxbury, MA 02118",2,3800,1.3 km,8.3 km,3.9 km,2.8 km,42.3376042,-71.0788367
+"6-8 South St #3, Brighton, MA 02135",2,3500,6.6 km,5.6 km,7.6 km,4.3 km,42.3400086,-71.1558806
+"51 Dustin St #1, Brighton, MA 02135",3,3400,8.9 km,2.6 km,5.8 km,2.5 km,42.352262,-71.145397
+"67 Etna St #2, Brighton, MA 02135",5,4750,9.0 km,2.7 km,5.9 km,3.1 km,42.35333019999999,-71.1479001
+"(undisclosed Address), Brighton, MA 02135",4,3550,10.6 km,4.6 km,10.9 km,4.1 km,42.3463503,-71.1626756
+"79 Elmira St #1, Brighton, MA 02135",3,3100,6.9 km,2.9 km,6.1 km,2.9 km,42.3523371,-71.147475
+"(undisclosed Address), Jamaica Plain, MA 02130",4,6695,4.3 km,7.5 km,7.9 km,5.4 km,42.3097365,-71.1151431
+"605 Cambridge St #2, Allston, MA 02134",1,9999,6.1 km,2.3 km,5.3 km,2.0 km,42.3518348,-71.1422905
+"54 Brackett St #3, Brighton, MA 02135",3,3500,12.6 km,4.7 km,10.3 km,4.8 km,42.3518084,-71.1653321
+"119 Webster St, Boston, MA",1,2800,8.5 km,12.3 km,7.2 km,8.0 km,42.366345,-71.0364888
+"119 Webster St, Boston, MA",2,2700,8.5 km,12.3 km,7.2 km,8.0 km,42.366345,-71.0364888
+"70 S Huntington Ave, Boston, MA",1,2000,2.1 km,4.7 km,5.0 km,2.5 km,42.3300199,-71.1110125
+"21 Kinross Rd APT 3, Brighton, MA 02135",3,3800,5.6 km,4.1 km,6.6 km,3.3 km,42.3401494,-71.14944
+"20 Brackett St #2, Brighton, MA 02135",4,3800,12.6 km,4.6 km,10.2 km,4.7 km,42.3510398,-71.1654891
+"20 Newcastle Rd #2, Brighton, MA 02135",4,4000,9.7 km,3.8 km,9.8 km,3.8 km,42.3536743,-71.1603327
+"17 Gordon St #1, Allston, MA 02134",3,4000,8.3 km,2.0 km,5.3 km,1.9 km,42.35349230000001,-71.1409724
+"45 Cedar Grove St, Dorchester, MA 02124",3,3800,9.1 km,16.6 km,14.5 km,15.3 km,42.2811282,-71.04942199999999
+"24 Hull St, Boston, MA",1,2395,6.8 km,11.0 km,5.1 km,5.3 km,42.3666624,-71.0557123
+"30 Murdock St #3, Brighton, MA 02135",3,3800,6.7 km,2.9 km,5.9 km,2.7 km,42.3510352,-71.1477657
+"1731 Commonwealth Ave #2, Brighton, MA 02135",3,3300,5.8 km,4.2 km,6.8 km,3.5 km,42.341911,-71.1490401
+"3 Putnam Pl, Roxbury, MA 02119",4,7200,1.4 km,8.1 km,5.0 km,3.5 km,42.3301822,-71.0884535
+"68 Woodstock Ave, Boston, MA",Studio,2075,4.3 km,3.1 km,5.2 km,1.9 km,42.34651789999999,-71.1371271
+"68 Woodstock Ave, Boston, MA",1,2400,4.3 km,3.1 km,5.2 km,1.9 km,42.34651789999999,-71.1371271
+"393 W Broadway, Boston, MA",2,3200,4.3 km,9.9 km,7.8 km,8.6 km,42.337197,-71.0489178
+"168 N St, Boston, MA",4,5200,5.3 km,11.5 km,12.2 km,13.0 km,42.3322753,-71.0309959
+"168 N St, Boston, MA",5,7500,5.3 km,11.5 km,12.2 km,13.0 km,42.3322753,-71.0309959
+"29 Woodlawn St #1, Jamaica Plain, MA 02130",2,3000,5.0 km,9.0 km,9.4 km,6.9 km,42.2987668,-71.1127636
+"38 Claymoss Rd #2, Boston, MA 02135",4,3500,5.1 km,3.9 km,6.2 km,2.9 km,42.3443242,-71.1457073
+"34 Bentley St #2A, Brighton, MA 02135",3,3700,7.0 km,3.2 km,6.3 km,3.1 km,42.3500516,-71.1512679
+"34 Charter St, Boston, MA",1,2500,6.7 km,10.9 km,5.0 km,5.2 km,42.3668218,-71.0539321
+"10 Boston St, South Boston, MA",3,2900,2.8 km,10.7 km,8.6 km,9.4 km,42.3289227,-71.05731089999999
+"165 W 6th St #1, Boston, MA 02127",2,3300,4.0 km,10.1 km,8.0 km,8.8 km,42.3361134,-71.0522362
+"(undisclosed Address), Boston, MA 02115",2,3580,0.7 km,6.5 km,3.1 km,2.1 km,42.339904,-71.0898892
+"110 Kenrick St FLOOR 2, Brighton, MA 02135",3,4000,12.9 km,5.0 km,10.6 km,4.4 km,42.346498,-71.16732879999999
+"11 Charter St, Boston, MA",2,2800,6.8 km,11.0 km,5.1 km,5.3 km,42.366267,-71.05316599999999
+"48 Juliette St FLOOR 3, Dorchester, MA 02122",2,3000,4.7 km,15.5 km,13.4 km,14.3 km,42.3053283,-71.0621871
+"26 Aldie St #1, Allston, MA 02134",5,4250,7.6 km,1.3 km,5.2 km,2.5 km,42.35923040000001,-71.13575569999999
+"12 Woodmont St #1, Brighton, MA 02135",4,3800,9.4 km,3.5 km,9.5 km,7.9 km,42.3568305,-71.16294859999999
+"883 Huntington Ave, Boston, MA",1,2500,3.0 km,4.5 km,4.9 km,2.4 km,42.3325839,-71.11154549999999
+"883 Huntington Ave, Boston, MA",2,2695,3.0 km,4.5 km,4.9 km,2.4 km,42.3325839,-71.11154549999999
+"676 Adams St #1A, Dorchester, MA 02122",2,2700,9.9 km,17.3 km,15.3 km,16.1 km,42.2867983,-71.0542309
+"340 Market St, Brighton, MA 02135",5,7000,9.0 km,2.8 km,6.2 km,3.0 km,42.3513178,-71.15181299999999
+"48 Belden St FLOOR 2, Dorchester, MA 02125",3,3300,2.9 km,13.0 km,11.0 km,5.6 km,42.31924619999999,-71.0651513
+"(undisclosed Address), Boston, MA 02128",3,3950,9.3 km,13.4 km,8.0 km,8.8 km,42.3695431,-71.0200613
+"22 Bellvista Rd #9, Brighton, MA 02135",2,3000,4.7 km,3.1 km,5.4 km,2.1 km,42.3464403,-71.1377159
+"282 Corey Rd #2, Brighton, MA 02135",2,2900,4.2 km,2.9 km,5.2 km,1.9 km,42.3459859,-71.13623969999999
+"137 Marcella St #2, Boston, MA 02119",2,3150,1.7 km,8.4 km,5.4 km,3.8 km,42.325175,-71.0965322
+"33 Newcastle Rd #2, Boston, MA 02135",5,6000,9.8 km,3.9 km,9.9 km,3.9 km,42.3539956,-71.160941
+"228 Faneuil St #2, Brighton, MA 02135",4,4000,9.7 km,3.7 km,9.8 km,3.8 km,42.3530318,-71.1592706
+"24 Long Ave #1, Allston, MA 02134",5,5500,6.5 km,2.9 km,5.7 km,2.0 km,42.3493752,-71.1360971
+"(undisclosed Address), Boston, MA 02215",Studio,2600,3.8 km,8.7 km,5.5 km,4.4 km,42.3476181,-71.1002881
+"32 Cunard St #2, Boston, MA 02120",3,4650,0.2 km,7.8 km,3.7 km,2.9 km,42.3364791,-71.0863494
+"379 Commonwealth Ave, Boston, MA",Studio,2200,1.1 km,5.3 km,2.1 km,0.6 km,42.3494507,-71.0895874
+"379 Commonwealth Ave, Boston, MA",1,2900,1.1 km,5.3 km,2.1 km,0.6 km,42.3494507,-71.0895874
+"20 Highgate St, Allston, MA",2,3800,5.4 km,1.8 km,4.7 km,1.4 km,42.3552,-71.1314981
+"20 Highgate St, Allston, MA",5,5900,5.4 km,1.8 km,4.7 km,1.4 km,42.3552,-71.1314981
+"9 Glover Ct, Boston, MA",3,4000,3.1 km,10.4 km,8.3 km,9.1 km,42.3310966,-71.0563651
+"168 Endicott St #2A, Boston, MA 02113",3,4500,6.4 km,10.6 km,4.7 km,4.9 km,42.3656253,-71.0575429
+"17 Holman St, Allston, MA",4,5500,5.4 km,1.1 km,4.7 km,3.4 km,42.3587162,-71.12962670000002
+"17 Holman St, Allston, MA",5,6000,5.4 km,1.1 km,4.7 km,3.4 km,42.3587162,-71.12962670000002
+"25 Peverell St, Dorchester, MA",3,3500,4.0 km,13.4 km,11.3 km,12.1 km,42.31321579999999,-71.06083389999999
+"21 Fairbanks St #1, Brighton, MA 02135",3,3600,10.2 km,4.2 km,10.3 km,4.2 km,42.3497407,-71.1628432
+"22 Brackett St SUITE 2, Brighton, MA 02135",4,3800,12.5 km,4.6 km,10.2 km,4.7 km,42.3508732,-71.1651728
+"(undisclosed Address), Boston, MA 02120",2,3300,1.1 km,7.5 km,4.3 km,2.7 km,42.33191670000001,-71.09880249999999
+"(undisclosed Address), Boston, MA 02120",2,3200,1.1 km,7.5 km,4.3 km,2.7 km,42.33191670000001,-71.09880249999999
+"24 Matchett St #1, Brighton, MA 02135",3,3400,12.0 km,4.5 km,9.7 km,8.4 km,42.3535166,-71.17082979999999
+"38 Foster St #1, Brighton, MA 02135",2,3250,10.2 km,4.3 km,6.6 km,3.4 km,42.3492168,-71.1570634
+"18 Grove St, Boston, MA",1,3100,12.1 km,18.8 km,13.9 km,11.4 km,42.26923,-71.1607397
+"392 W Broadway APT 4, Boston, MA 02127",1,3400,4.4 km,9.9 km,7.8 km,8.7 km,42.3375005,-71.0483448
+"(undisclosed Address), Dorchester, MA 02124",2,2600,11.5 km,18.9 km,16.9 km,17.7 km,42.2826027,-71.067605
+"856 E Broadway #1H, Boston, MA 02127",5,6750,5.2 km,11.2 km,9.7 km,11.2 km,42.3359613,-71.03002719999999
+"870 E 2nd St #3, South Boston, MA 02127",2,5000,6.9 km,11.2 km,9.6 km,11.2 km,42.337668,-71.0283396
+"129 Chiswick Rd #1, Brighton, MA 02135",4,3600,6.2 km,4.1 km,7.2 km,3.9 km,42.34092649999999,-71.1531037
+"21 Montfern Ave #2, Brighton, MA 02135",3,3100,12.6 km,4.7 km,10.3 km,4.8 km,42.3508347,-71.1644468
+"175 Athens St, South Boston, MA 02127",2,4200,4.3 km,9.8 km,7.7 km,8.5 km,42.3403504,-71.0523085
+"8 Malbert Rd, Boston, MA",5,4000,10.4 km,4.4 km,10.8 km,3.6 km,42.3494725,-71.1589637
+"8 Malbert Rd, Boston, MA",6,4000,10.4 km,4.4 km,10.8 km,3.6 km,42.3494725,-71.1589637
+"837 Dorchester Ave #2, Dorchester, MA 02125",3,3800,3.6 km,12.4 km,10.3 km,11.1 km,42.3220248,-71.0569759
+"15 Long Ave #2, Allston, MA 02134",3,3300,6.5 km,2.9 km,5.7 km,2.0 km,42.349267,-71.1356524
+"10 Wiget St, Boston, MA",2,2500,6.5 km,10.6 km,3.8 km,5.2 km,42.3639661,-71.0561142
+"20 Bigelow St #3, Brighton, MA 02135",3,3300,10.3 km,4.4 km,10.0 km,4.5 km,42.3521575,-71.16793059999999
+"6 Oliva Rd #1, Brighton, MA 02135",2,2800,9.4 km,3.5 km,9.5 km,7.9 km,42.3564195,-71.1617241
+"21 Lothrop St #2, Boston, MA 02135",4,3900,8.0 km,1.9 km,8.2 km,6.6 km,42.3602008,-71.145043
+"18 Burton St #2, Brighton, MA 02135",4,4000,11.8 km,5.0 km,9.5 km,8.2 km,42.3539611,-71.1729761
+"689 Washington St APT 1, Boston, MA 02124",4,3800,6.3 km,19.1 km,17.0 km,17.8 km,42.2875224,-71.07144749999999
+"533 Newbury St, Boston, MA",1,2650,1.1 km,5.7 km,2.4 km,0.4 km,42.34820390000001,-71.0939104
+"533 Newbury St, Boston, MA",2,3800,1.1 km,5.7 km,2.4 km,0.4 km,42.34820390000001,-71.0939104
+"5 Saint James Pl, Roxbury, MA 02119",4,5000,1.9 km,8.6 km,5.6 km,4.0 km,42.3264895,-71.0865685
+"185 Saint Botolph St, Boston, MA",Studio,2200,0.7 km,6.2 km,2.8 km,1.7 km,42.34299499999999,-71.083353
+"185 Saint Botolph St, Boston, MA",1,2100,0.7 km,6.2 km,2.8 km,1.7 km,42.34299499999999,-71.083353
+"70 Brayton Rd #1, Brighton, MA 02135",3,3100,12.6 km,4.7 km,10.3 km,4.8 km,42.348479,-71.1701964
+"35 Oak St, Boston, MA",1,2195,8.5 km,4.7 km,4.6 km,8.0 km,42.380698,-71.06845249999999
+"25 Mount Hood Rd APT 3, Brighton, MA 02135",2,2675,4.9 km,3.9 km,6.0 km,2.7 km,42.3421305,-71.1428664
+"84 Gordon St APT 306, Brighton, MA 02135",1,2600,7.2 km,2.8 km,6.5 km,3.2 km,42.34986869999999,-71.13980099999999
+"260 Chestnut Hill Ave #4, Brighton, MA 02135",Studio,2350,6.2 km,4.3 km,7.3 km,3.9 km,42.33944109999999,-71.1543829
+"38 Oak St, Boston, MA",1,2200,3.7 km,7.6 km,4.8 km,4.2 km,42.3808169,-71.068583
+"25 Gloucester St, Boston, MA",1,2350,1.5 km,5.8 km,2.1 km,1.1 km,42.3504687,-71.0845357
+"25 Gloucester St, Boston, MA",2,1400,1.5 km,5.8 km,2.1 km,1.1 km,42.3504687,-71.0845357
+"142 Lake Shore Rd #2, Brighton, MA 02135",3,3300,13.4 km,5.4 km,11.0 km,4.7 km,42.3438135,-71.16877219999999
+"242 Corey Rd #1, Brighton, MA 02135",2,2900,4.4 km,3.1 km,5.3 km,2.1 km,42.3448561,-71.13758059999999
+"8 Oakhurst St #6, Dorchester Center, MA 02124",3,3500,6.8 km,20.2 km,18.2 km,10.1 km,42.2879686,-71.0824205
+"24 Shepard St #2, Brighton, MA 02135",2,3300,7.1 km,3.3 km,6.3 km,3.5 km,42.346919,-71.150024
+"41 Rosemont St #2, Dorchester, MA 02122",2,2750,8.6 km,16.0 km,14.0 km,14.8 km,42.292813,-71.0548854
+"8 Saint Andrew Rd, Boston, MA 02128",3,3500,11.8 km,16.9 km,10.5 km,11.3 km,42.3855143,-71.0048758
+"37 Aldie St #1, Boston, MA 02134",1,2900,7.6 km,1.3 km,5.2 km,2.5 km,42.3588155,-71.1354648
+"2 Newhill Pl, Boston, MA 02127",2,2500,6.5 km,10.8 km,9.2 km,10.8 km,42.3361701,-71.0359191
+"75 Etna St #2, Brighton, MA 02135",3,3000,9.0 km,2.8 km,6.0 km,3.0 km,42.3531902,-71.1479872
+"64 Brighton Ave, Allston, MA",1,1900,4.3 km,2.1 km,4.1 km,0.8 km,42.3522981,-71.12830009999999
+"231 Chestnut Hill Ave, Brighton, MA",3,3600,6.3 km,4.7 km,7.3 km,4.0 km,42.3399547,-71.1556076
+"231 Chestnut Hill Ave, Brighton, MA",4,6000,6.3 km,4.7 km,7.3 km,4.0 km,42.3399547,-71.1556076
+"22 Park Vale Ave APT 2, Allston, MA 02134",3,3400,6.2 km,2.5 km,5.4 km,1.8 km,42.35149,-71.1332092
+"20 Ranelegh Rd #2, Brighton, MA 02135",2,3000,9.4 km,3.5 km,9.5 km,7.9 km,42.3563025,-71.16106789999999
+"221 Kelton St, Boston, MA",Studio,1875,4.3 km,3.1 km,5.1 km,1.8 km,42.3467603,-71.1369809
+"221 Kelton St, Boston, MA",1,2150,4.3 km,3.1 km,5.1 km,1.8 km,42.3467603,-71.1369809
+"460B Harrison Ave, Boston, MA",2,4100,2.9 km,9.4 km,7.3 km,8.2 km,42.3422429,-71.0642158
+"18 Brookline Ave #205, Boston, MA 02215",Studio,4097,1.2 km,5.7 km,2.5 km,0.4 km,42.34831380000001,-71.0970571
+"18 Atlantic St, Boston, MA",4,5000,3.9 km,10.5 km,8.4 km,9.2 km,42.333966,-71.0460575
+"18 Atlantic St, Boston, MA",5,6500,3.9 km,10.5 km,8.4 km,9.2 km,42.333966,-71.0460575
+"741-20 E 6th St, Boston, MA",3,3700,5.4 km,11.4 km,9.9 km,11.4 km,42.3329493,-71.03095929999999
+"743 E 4th St #202A, Boston, MA 02127",2,3600,5.3 km,11.0 km,9.4 km,10.9 km,42.3345962,-71.03468720000001
+"311 South St #B3, Brighton, MA 02135",1,2550,6.6 km,5.6 km,7.6 km,4.3 km,42.3400967,-71.1563767
+"41 Englewood Ave #21, Brighton, MA 02135",1,2300,5.1 km,4.3 km,6.5 km,3.5 km,42.33827549999999,-71.14685340000001
+"2023 Commonwealth Ave #1, Brighton, MA 02135",2,3750,11.3 km,5.3 km,7.7 km,4.6 km,42.340271,-71.15935189999999
+"6 Radcliffe Rd #B, Boston, MA 02134",2,2900,6.0 km,2.3 km,5.2 km,1.6 km,42.3507375,-71.1342944
+"610 E 2nd St, South Boston, MA",2,2800,4.6 km,10.9 km,8.7 km,9.5 km,42.3374364,-71.0387382
+"72 Revere St #F3, Boston, MA 02114",Studio,2500,4.4 km,8.2 km,2.8 km,3.9 km,42.3594439,-71.0690772
+"162 N Beacon St #23, Brighton, MA 02135",1,2100,8.8 km,2.9 km,6.4 km,3.2 km,42.3581069,-71.1561475
+"(undisclosed Address), Boston, MA 02115",1,2900,0.7 km,6.5 km,3.1 km,2.1 km,42.339904,-71.0898892
+"5295 Washington St #1, West Roxbury, MA 02132",1,2400,13.5 km,31.2 km,15.4 km,12.9 km,42.2589619,-71.1603046
+"26 Mount Vernon St UNIT 4R, Boston, MA 02108",1,3250,3.7 km,7.4 km,3.2 km,3.2 km,42.3581478,-71.0655262
+"1411 Commonwealth Ave APT 503, Brighton, MA 02135",1,2100,7.2 km,2.8 km,6.4 km,3.1 km,42.3492203,-71.1388626
+"11 Greylock Rd #1, Allston, MA 02134",4,3900,6.6 km,3.0 km,5.8 km,2.3 km,42.3503242,-71.1351882
+"1933 Commonwealth Ave, Boston, MA",1,2300,11.6 km,5.7 km,8.0 km,4.3 km,42.3393056,-71.1558024
+"1933 Commonwealth Ave, Boston, MA",2,3300,11.6 km,5.7 km,8.0 km,4.3 km,42.3393056,-71.1558024
+"16 Copenger St #U1, Boston, MA 02120",4,4300,1.8 km,4.9 km,5.2 km,2.8 km,42.3319238,-71.11034970000001
+"15 Dana Ave #6, Hyde Park, MA 02136",2,3000,10.0 km,14.0 km,14.4 km,11.9 km,42.2538052,-71.1247092
+"2 Copps Hill Ter APT 3, Boston, MA 02113",2,2800,6.5 km,10.7 km,4.8 km,5.0 km,42.367958,-71.0558624
+"1258 Commonwealth Ave, Boston, MA",2,3050,4.2 km,2.3 km,4.6 km,1.3 km,42.3492732,-71.1322472
+"1258 Commonwealth Ave, Boston, MA",3,3200,4.2 km,2.3 km,4.6 km,1.3 km,42.3492732,-71.1322472
+"109 Oakland St #2, Brighton, MA 02135",3,3000,9.8 km,3.9 km,9.9 km,3.8 km,42.3524743,-71.1602274
+"1183 Boylston St #11, Boston, MA 02215",1,2700,0.7 km,5.5 km,2.4 km,0.9 km,42.3464152,-71.0940873
+"2-4 Chestnut Pl #1, Brighton, MA 02135",2,3500,7.2 km,3.4 km,6.4 km,3.2 km,42.3466271,-71.1514658
+"1496 Commonwealth Ave APT 5, Brighton, MA 02135",3,3200,4.9 km,3.0 km,5.5 km,2.2 km,42.3462046,-71.1407456
+"102 Nonantum St #1, Brighton, MA 02135",2,2700,12.7 km,4.8 km,10.4 km,4.8 km,42.3498378,-71.1718739
+"62 Hobson St #1, Brighton, MA 02135",4,3995,9.6 km,3.7 km,9.7 km,4.1 km,42.3546903,-71.16209789999999
+"288 N Harvard St #2, Allston, MA 02134",3,3250,5.0 km,0.6 km,4.2 km,2.9 km,42.3604256,-71.12871729999999
+"168 Endicott St, Boston, MA",3,4500,6.4 km,10.6 km,4.7 km,4.9 km,42.3656253,-71.0575429
+"61-63 Philbrick St UNIT 1, Roslindale, MA 02131",2,3200,6.6 km,10.6 km,10.9 km,8.5 km,42.28475,-71.1183082
+"7 Kingsdale St #2B, Dorchester Center, MA 02124",3,3100,5.6 km,17.4 km,15.3 km,10.4 km,42.2954876,-71.0795303
+"1173 Boylston St #33, Boston, MA 02215",1,2650,1.2 km,6.0 km,2.9 km,1.4 km,42.3466377,-71.0937118
+"513 Washington St UNIT 2, Boston, MA 02135",3,2900,10.4 km,4.4 km,10.5 km,3.8 km,42.3491888,-71.1617789
+"(undisclosed Address), Boston, MA 02115",2,2995,0.7 km,6.5 km,3.1 km,2.1 km,42.339904,-71.0898892
+"1 Charles St S, Boston, MA",2,9500,2.5 km,7.5 km,3.9 km,3.2 km,42.3511754,-71.06732319999999
+"25 Chester St APT 3, Allston, MA 02134",4,3800,4.7 km,2.2 km,4.5 km,1.2 km,42.3516918,-71.1283995
+"580 Washington St #412, Boston, MA 02111",1,4150,4.6 km,8.5 km,6.2 km,7.0 km,42.3533804,-71.06197689999999
+"310 Allston St #3F, Brighton, MA 02135",1,2750,4.8 km,3.4 km,5.6 km,2.3 km,42.3437018,-71.1410555
+"105 Oakland St #2, Boston, MA 02135",2,3000,9.8 km,3.9 km,9.9 km,3.8 km,42.3523587,-71.1601659
+"33 Greenbrier St, Dorchester, MA 02124",3,3400,5.7 km,16.6 km,14.5 km,15.3 km,42.2988002,-71.0714905
+"(undisclosed Address), Allston, MA 02134",1,2200,4.9 km,1.3 km,4.1 km,2.8 km,42.3593008,-71.1270268
+"357 Hanover St, Boston, MA 02113",1,2800,6.7 km,10.8 km,3.8 km,4.9 km,42.3646142,-71.05341589999999
+"54 Donnybrook Rd #3, Brighton, MA 02135",3,3000,9.7 km,3.8 km,9.8 km,4.0 km,42.354363,-71.16104349999999
+"23 Gordon St, Allston, MA",4,4000,6.0 km,2.1 km,5.2 km,1.9 km,42.35303,-71.14076519999999
+"23 Gordon St, Allston, MA",5,5500,6.0 km,2.1 km,5.2 km,1.9 km,42.35303,-71.14076519999999
+"120 M St #2H, Boston, MA 02127",5,7000,5.3 km,11.3 km,12.2 km,13.0 km,42.3338614,-71.033154
+"608 Dorchester Ave #3F, Boston, MA 02127",2,3500,2.8 km,10.7 km,8.6 km,9.4 km,42.3290277,-71.05677159999999
+"9 Sewall St, Roxbury, MA 02120",6,9600,1.1 km,7.5 km,4.3 km,2.8 km,42.3313564,-71.09832279999999
+"1611 Tremont St APT 2, Roxbury Crossing, MA 02120",2,3600,1.2 km,7.5 km,4.4 km,2.3 km,42.3337593,-71.1028671
+"6 Ashley St APT 3, Jamaica Plain, MA 02130",3,3000,2.5 km,9.3 km,7.3 km,4.9 km,42.3205667,-71.10373109999999
+"19 Montfern Ave #2, Boston, MA 02135",2,2600,12.6 km,4.7 km,10.3 km,4.7 km,42.3506924,-71.1644
+"6 Elder St FLOOR 3, Dorchester, MA 02125",3,2800,2.9 km,12.4 km,10.3 km,5.6 km,42.3200105,-71.0630218
+"16 Wallingford Rd #2, Brighton, MA 02135",2,2700,5.7 km,4.2 km,6.7 km,3.4 km,42.3413677,-71.1516086
+"65 E India Row, Boston, MA",1,3400,5.1 km,9.3 km,4.0 km,6.8 km,42.357639,-71.0504732
+"65 E India Row, Boston, MA",2,4400,5.1 km,9.3 km,4.0 km,6.8 km,42.357639,-71.0504732
+"1948 Washington St #5J, Boston, MA 02118",2,5000,1.0 km,7.3 km,3.9 km,2.9 km,42.334075,-71.079505
+"59 Pinckney St, Boston, MA",1,3300,4.5 km,8.3 km,2.8 km,4.0 km,42.359037,-71.0673837
+"606 Columbus Ave APT 1R, Boston, MA 02118",3,4350,0.7 km,6.5 km,3.0 km,2.0 km,42.3397561,-71.08241439999999
+"(undisclosed Address), Boston, MA 02113",1,2600,6.9 km,11.0 km,5.1 km,5.4 km,42.3654231,-71.05497679999999
+"(undisclosed Address), Boston, MA 02135",2,2675,10.6 km,4.6 km,10.9 km,4.1 km,42.3463503,-71.1626756
+"819 E Broadway #2, Boston, MA 02127",3,3900,5.0 km,11.1 km,9.5 km,11.1 km,42.3355108,-71.0317848
+"785 Tremont St #118, Boston, MA 02118",2,4600,0.8 km,6.6 km,3.2 km,2.2 km,42.3392613,-71.0811149
+"34 Foster St #1, Brighton, MA 02135",4,3500,10.3 km,4.3 km,6.7 km,3.5 km,42.3497885,-71.1568236
+"10 Murdock St #1, Brighton, MA 02135",3,2900,6.6 km,2.8 km,5.9 km,2.7 km,42.3506052,-71.1481222
+"1715 Commonwealth Ave APT 3, Boston, MA 02135",4,3700,5.8 km,4.3 km,6.8 km,3.6 km,42.3420107,-71.1480811
+"12 Greylock Rd #4, Allston, MA 02134",4,3800,6.6 km,3.0 km,5.8 km,2.3 km,42.3506042,-71.1349413
+"24 Nottinghill Rd #2, Brighton, MA 02135",2,3400,6.3 km,4.6 km,7.6 km,4.0 km,42.343683,-71.1496999
+"32 Leicester St #2, Brighton, MA 02135",3,3300,10.3 km,4.4 km,6.6 km,3.4 km,42.3503128,-71.1546075
+"195 Commonwealth Ave, Boston, MA",1,3150,1.9 km,6.2 km,2.5 km,1.5 km,42.3516445,-71.08072899999999
+"78 Hunnewell Ave #1, Boston, MA 02135",3,2900,12.0 km,4.7 km,9.6 km,8.4 km,42.3537604,-71.1720802
+"38 Saunders St #38, Allston, MA 02134",5,6350,8.4 km,2.2 km,5.4 km,2.1 km,42.35327059999999,-71.1422394
+"60 Brighton Ave, Allston, MA",1,2100,4.2 km,2.1 km,4.1 km,0.8 km,42.3522426,-71.12809440000001
+"1948 Commonwealth Ave #1, Brighton, MA 02135",1,2750,6.2 km,4.7 km,7.2 km,3.9 km,42.3385737,-71.1558482
+"14 Sutherland Rd #1, Boston, MA 02135",3,3500,5.5 km,4.3 km,6.9 km,3.6 km,42.3369598,-71.1504898
+"22 Bryon Rd #1, Chestnut Hill, MA 02467",2,2700,9.3 km,10.7 km,12.4 km,9.9 km,42.3019806,-71.1670733
+"10 Long Ave APT 1, Allston, MA 02134",3,3300,6.5 km,2.8 km,5.7 km,2.0 km,42.3488835,-71.13578430000001
+"13 Bowdoin St APT 3AB, Boston, MA 02114",2,4400,5.2 km,16.7 km,14.7 km,7.9 km,42.2994429,-71.0725842
+"88 Beechcroft St, Brighton, MA",2,3000,10.3 km,4.4 km,10.4 km,4.3 km,42.3518586,-71.1613733
