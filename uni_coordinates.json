@@ -1,0 +1,18 @@
+{
+    "Harvard University": {
+        "latitude": 42.3770,
+        "longitude": -71.1167
+    },
+    "MIT University": {
+        "latitude": 42.3601,
+        "longitude": -71.0942
+    },
+    "Boston University": {
+        "latitude": 42.3505,
+        "longitude": -71.1054
+    },
+    "Northeastern University": {
+        "latitude": 42.3398,
+        "longitude": -71.0892
+    }
+}
