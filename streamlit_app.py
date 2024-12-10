@@ -9,7 +9,7 @@ from streamlit_folium import st_folium
 import pickle
 
 
-data = pd.read_csv("data archive\\data_processed_with_coordinates.csv")
+data = pd.read_csv("data archive/data_processed_with_coordinates.csv")
 with open('uni_coordinates.json', 'r') as file:
     uni_coordinates = json.load(file)
 
